@@ -77,7 +77,7 @@ There will be 3 special sessions.
 * Valentina Castiglioni (Eindhoven University of Technology)
 * Liron Cohen (Ben-Gurion University)
 * Raphaëlle Crubillé (IRIF)
-* Valeria De Paiva (Topos Institute, co-chair)
+* **Valeria De Paiva (Topos Institute, co-chair)**
 * Masahito Hasegawa (Kyoto University)
 * Justin Hsu (Cornell University)
 * Patricia Johann (Appalachian State University)
@@ -87,7 +87,7 @@ There will be 3 special sessions.
 * Paul Levy (University of Birmingham)
 * Michael Mislove (Tulane University)
 * Daniele Nantes-Sobrinho (Imperial College London)
-* Alex Simpson (University of Ljubljana, co-chair)
+* **Alex Simpson (University of Ljubljana, co-chair)**
 * Christine Tasson (Sorbonne Université)
 
 ## LOCAL ORGANISER: 
