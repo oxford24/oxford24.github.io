@@ -1,3 +1,6 @@
+---
+layout: actmfps
+---
 MFPS XL: Mathematical Foundations of Programming Semantics 2024
 First call for papers
 
