@@ -2,8 +2,9 @@
 layout: actmfps
 ---
 
-# MFPS XL: Mathematical Foundations of Programming Semantics 2024
-First call for papers
+# MFPS XL: Mathematical Foundations of Programming Semantics
+
+## Call for papers
 
 The 40th Conference on the Mathematical Foundations of Programming Semantics (MFPS XL) takes place at the University of Oxford, UK, from 19-21 June 2024, where it will be colocated with the 7th International Conference on Applied Category Theory (ACT 2024).
 
@@ -11,7 +12,7 @@ MFPS conferences are dedicated to the areas of mathematics, logic, and computer 
 
 Topics include, but are not limited to, the following: bio-computation; concurrent qualitative and quantitative distributed systems; process calculi; probabilistic systems; constructive mathematics; domain theory and categorical models; formal languages; formal methods; game semantics; lambda calculus; programming-language theory; quantum computation; security; topological models; logic; type systems; type theory. We also welcome contributions that address applications of semantics to novel areas such as complex systems, markets, and networks, for example.
 
-Conference home page: https://oxford24.github.io/
+Conference home page: [https://oxford24.github.io/](https://oxford24.github.io/)
 
 ## SUBMISSION
 
@@ -24,7 +25,7 @@ Conference home page: https://oxford24.github.io/
 
 ### Submissions 
 
-Submissions should be prepared using the MFPS macros (https://mfpsconf.org/?page_id=309) in the form of a PDF file. Submission is via EasyChair (https://easychair.org/conferences/?conf=mfps2024). 
+Submissions should be prepared using the [MFPS macros](https://mfpsconf.org/?page_id=309) in the form of a PDF file. [Submission is via EasyChair](https://easychair.org/conferences/?conf=mfps2024). 
 
 For the first time at MFPS, there are two submission categories:
 
