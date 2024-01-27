@@ -63,8 +63,9 @@ There will be 3 special sessions.
 
 * Special session in memory of Philip Scott  (joint session with ACT, organiser Rick Blute)
 * TBA
+* TBA
 
-## PROGRAM COMMITTEE: 
+## PROGRAMME COMMITTEE: 
 
 * Danel Ahman (University of Tartu)
 * Amal Ahmed (Northeastern University)
