@@ -2,7 +2,7 @@
 layout: actmfps
 ---
 
-#MFPS XL: Mathematical Foundations of Programming Semantics 2024
+# MFPS XL: Mathematical Foundations of Programming Semantics 2024
 First call for papers
 
 The 40th Conference on the Mathematical Foundations of Programming Semantics (MFPS XL) takes place at the University of Oxford, UK, from 19-21 June 2024, where it will be colocated with the 7th International Conference on Applied Category Theory (ACT 2024).
