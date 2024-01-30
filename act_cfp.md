@@ -31,7 +31,7 @@ We accept submissions in English of original research papers, talks about work a
 
 * Software demonstration proposals should also be submitted as abstracts, one or two pages. The purpose of the abstract is to provide the program committee with enough information to assess the content of the demonstration. 
 
-The selected conference papers are expected to be published with EPTCS, and authors are advised to use the style files available at [style.eptcs.org].
+The selected conference papers are expected to be published with EPTCS, and authors are advised to use the style files available at [style.eptcs.org](https://style.eptcs.org).
 
 
 
