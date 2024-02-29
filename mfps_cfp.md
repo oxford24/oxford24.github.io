@@ -63,7 +63,7 @@ There will be 3 special sessions.
 
 * Special session in memory of Philip Scott  (joint session with ACT, organiser Rick Blute)
 * Special session on the semantics of non-wellfounded and circular proofs (organisers Anupam Das and Abhishek De)
-* TBA
+* Special session associated with the invited talk of Philippa Gardner (organiser Philippa Gardner)
 
 ## PROGRAMME COMMITTEE: 
 
