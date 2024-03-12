@@ -8,7 +8,7 @@ The conference will be based in and around the Department of Computer Science in
 
 * For accommodation, Oxford is always busy so you should book in advance. As well as the usual routes ([airbnb](https://www.airbnb.co.uk/oxford-united-kingdom/stays/apartments) and [booking sites](https://www.tripadvisor.co.uk/Hotels-g186361-Oxford_Oxfordshire_England-Hotels.html)) you can try [universityrooms](https://www.universityrooms.com/en-GB/city/oxford/home/). 
 
-* Oxford is connected to London by [rail](https://www.nationalrail.co.uk) and bus ([Tube](https://www.oxfordtube.com) / [National Express](https://www.nationalexpress.com/en/help/coach-stations/oxford)). There is convenient access to Heathrow and Birmingham airports, and slightly less convenient access to other London airports.
+* Oxford is connected by [rail](https://www.nationalrail.co.uk) and bus ([Tube](https://www.oxfordtube.com) / [National Express](https://www.nationalexpress.com/en/help/coach-stations/oxford)). There is convenient access to Heathrow and Birmingham airports, and slightly less convenient access to other London airports.
 
 * Unlike ACT 2023, there will be a registration fee to cover room hire and so on. We are trying to keep it very low.
 
