@@ -15,6 +15,7 @@ Applied category theory is important to a growing community of researchers who s
 
 ### Important dates: 
 
+* March 26: abstract submission
 * March 29: paper submission
 * May 3: notification of authors
 * June 17–21: conference
@@ -25,6 +26,10 @@ Applied category theory is important to a growing community of researchers who s
 
 We accept submissions in English of original research papers, talks about work accepted/submitted/published elsewhere, and demonstrations of relevant software. Accepted original research papers will be published in a proceedings volume. The conference will include an industry showcase event and community meeting. We particularly encourage people from underrepresented groups to submit their work and the organizers are committed to non-discrimination, equity, and inclusion.
 
+The submission URL is:
+[https://openreview.net/group?id=AppliedCategoryTheory.org/ACT/2024/Conference].
+Please allow time to create an OpenReview account. 
+
 * Conference Papers should present original, high-quality work in the style of a computer science conference paper (up to 12 pages, not counting the bibliography; more detailed parts of proofs may be included in an appendix for the convenience of the reviewers). Such submissions should not be an abridged version of an existing journal article although pre-submission arXiv preprints are permitted. These submissions will be adjudicated for both a talk and publication in the conference proceedings.
 
 * Talk proposals not to be published in the proceedings, e.g. about work accepted/submitted/published elsewhere, should be submitted as abstracts, one or two pages long. Authors are encouraged to include links to any full versions of their papers, preprints or manuscripts. The purpose of the abstract is to provide a basis for determining the topics and quality of the anticipated presentation.
@@ -33,5 +38,8 @@ We accept submissions in English of original research papers, talks about work a
 
 The selected conference papers are expected to be published with EPTCS, and authors are advised to use the style files available at [style.eptcs.org](https://style.eptcs.org).
 
+Reviewing will be single-blind, and we are not making public the reviews, reviewer names, the discussions nor the list of under-review submissions. This is the same as previous instances of ACT.
 
+Please contact the organisers for more information: 
+David Jaz Myers (Abu Dhabi) and Michael Johnson (Sydney).
 
