@@ -10,7 +10,7 @@ The conferences will be based in and around the Department of Computer Science i
 
 * Oxford is connected by [rail](https://www.nationalrail.co.uk) and bus ([Tube](https://www.oxfordtube.com) / [National Express](https://www.nationalexpress.com/en/help/coach-stations/oxford)). There is convenient access to Heathrow and Birmingham airports, and slightly less convenient access to other London airports.
 
-* Unlike ACT 2023, there will be a registration fee to cover room hire and so on. We are trying to keep it very low.
+* There will be a registration fee to cover room hire and so on. We are trying to keep it very low. (This is in common with MFPS 2023 but not ACT 2023.) 
 
 * For any general enquiries, please contact [Sam](https://www.cs.ox.ac.uk/people/samuel.staton/main.html). 
 
