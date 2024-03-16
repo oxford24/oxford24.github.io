@@ -24,11 +24,11 @@ Applied category theory is important to a growing community of researchers who s
 
 
 
-We accept submissions in English of original research papers, talks about work accepted/submitted/published elsewhere, and demonstrations of relevant software. Accepted original research papers will be published in a proceedings volume. The conference will include an industry showcase event and community meeting. We particularly encourage people from underrepresented groups to submit their work and the organizers are committed to non-discrimination, equity, and inclusion.
-
 The submission URL is:
 [https://openreview.net/group?id=AppliedCategoryTheory.org/ACT/2024/Conference](https://openreview.net/group?id=AppliedCategoryTheory.org/ACT/2024/Conference).
 Please allow time to create an OpenReview account. 
+
+We accept submissions in English of original research papers, talks about work accepted/submitted/published elsewhere, and demonstrations of relevant software. Accepted original research papers will be published in a proceedings volume. The conference will include an industry showcase event and community meeting. We particularly encourage people from underrepresented groups to submit their work and the organizers are committed to non-discrimination, equity, and inclusion.
 
 * Conference Papers should present original, high-quality work in the style of a computer science conference paper (up to 12 pages, not counting the bibliography; more detailed parts of proofs may be included in an appendix for the convenience of the reviewers). Such submissions should not be an abridged version of an existing journal article although pre-submission arXiv preprints are permitted. These submissions will be adjudicated for both a talk and publication in the conference proceedings.
 
