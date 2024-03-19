@@ -15,7 +15,7 @@ Applied category theory is important to a growing community of researchers who s
 
 ### Important dates: 
 
-* March 26: abstract submission
+* March 26: title and brief abstract submission
 * March 29: paper submission
 * May 3: notification of authors
 * June 17–21: conference
@@ -39,6 +39,11 @@ We accept submissions in English of original research papers, talks about work a
 The selected conference papers are expected to be published with EPTCS, and authors are advised to use the style files available at [style.eptcs.org](https://style.eptcs.org).
 
 Reviewing will be single-blind, and we are not making public the reviews, reviewer names, the discussions nor the list of under-review submissions. This is the same as previous instances of ACT.
+
+In order to give our reviewers enough time to bid on submissions, we ask for a title and brief abstract of your submission by March 26. 
+For all planned submissions, please do provide a title and short text abstract by March 26.
+The full two-page pdf extended abstract submissions and up to 14 page proceedings submissions are both due by the submissions deadline of March 29 11:59pm aoe.
+
 
 Please contact the organisers for more information: 
 David Jaz Myers (Abu Dhabi) and Michael Johnson (Sydney).
