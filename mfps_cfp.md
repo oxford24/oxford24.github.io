@@ -52,17 +52,24 @@ It is planned to publish a journal special issue for selected papers from MFPS X
 
 There will be 4 invited speakers.
 
-* Philippa Gardner (Imperial College, London, UK)
-* Ohad Kammar (University of Edinburgh, UK)
-* Catuscia Palamidessi (INRIA Saclay & LIX, France)
-* Andrew Pitts (University of Cambridge Emeritus, joint ACT/MFPS plenary speaker)
+* [Philippa Gardner](http://www.doc.ic.ac.uk/~pg/) (Imperial College, London, UK)
+* [Ohad Kammar](https://denotational.co.uk) (University of Edinburgh, UK)
+* [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/) (INRIA Saclay & LIX, France)
+* [Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/) (University of Cambridge Emeritus, joint ACT/MFPS plenary speaker)
 
 ## SPECIAL SESSIONS
 
 There will be 3 special sessions.
 
-* Special session in memory of Philip Scott  (joint session with ACT, organiser Rick Blute)
-* Special session on the semantics of non-wellfounded and circular proofs (organisers Anupam Das and Abhishek De)
+* Special session in memory of Philip Scott  (joint session with ACT, organiser Rick Blute). Speakers:
+    - [Rick Blute](https://www.uottawa.ca/faculty-science/professors/richard-blute)
+    - [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/)
+    - [Robin Cockett](http://pages.cpsc.ucalgary.ca/~robin/)
+    - [Mark Lawson](https://researchportal.hw.ac.uk/en/persons/mark-lawson)
+* Special session on the semantics of non-wellfounded and circular proofs (organisers Anupam Das and Abhishek De). Speakers:
+    - [Gianluca Curzi]:(https://gianlucacurzi.com/ )
+    - [Farzaneh Derakhshan](http://gauss.cs.iit.edu/~fderakhshan/ )
+    - [Farzad Jafarrahmani](https://sites.google.com/site/farzadjafarrahmani/home )
 * Special session associated with the invited talk of Philippa Gardner (organiser Philippa Gardner)
 
 ## PROGRAMME COMMITTEE: 
