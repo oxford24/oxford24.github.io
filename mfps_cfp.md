@@ -43,7 +43,7 @@ Early announcements will be given equal presentation time to regular research co
 
 A preliminary proceedings will be distributed at the meeting, containing both regular research contributions and early announcements. 
 
-Final proceedings, containing regular research contributions only, will be published in Electronic Notes in Theoretical Informatics and Computer Science (ENTICS https://entics.episciences.org/). This open-access series is hosted by Episciences.org as an overlay for papers published by the CORR arXiv or HAL.
+Final proceedings, containing regular research contributions only, will be published in [Electronic Notes in Theoretical Informatics and Computer Science (ENTICS)](https://entics.episciences.org/). This open-access series is hosted by Episciences.org as an overlay for papers published by the CORR arXiv or HAL.
 
 It is planned to publish a journal special issue for selected papers from MFPS XL. 
 
@@ -67,7 +67,7 @@ There will be 3 special sessions.
     - [Robin Cockett](http://pages.cpsc.ucalgary.ca/~robin/)
     - [Mark Lawson](https://researchportal.hw.ac.uk/en/persons/mark-lawson)
 * Special session on the semantics of non-wellfounded and circular proofs (organisers Anupam Das and Abhishek De). Speakers:
-    - [Gianluca Curzi]:(https://gianlucacurzi.com/ )
+    - [Gianluca Curzi](https://gianlucacurzi.com/ )
     - [Farzaneh Derakhshan](http://gauss.cs.iit.edu/~fderakhshan/ )
     - [Farzad Jafarrahmani](https://sites.google.com/site/farzadjafarrahmani/home )
 * Special session associated with the invited talk of Philippa Gardner (organiser Philippa Gardner)
