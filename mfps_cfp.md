@@ -18,7 +18,7 @@ Conference home page: [https://oxford24.github.io/](https://oxford24.github.io/)
 
 ### Important dates: 
 
-* **April 5 (AoE)**: paper submission (submission of title and text abstract is requested by March 29)
+* **April 5 (AoE)**: paper submission (submission of title and text abstract is requested by March 29 AoE)
 * May 3: notification of authors
 * June 3: conference papers ready
 * June 19–21: conference
