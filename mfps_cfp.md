@@ -70,7 +70,6 @@ There will be 3 special sessions.
     - [Gianluca Curzi](https://gianlucacurzi.com/ )
     - [Farzaneh Derakhshan](http://gauss.cs.iit.edu/~fderakhshan/ )
     - [Farzad Jafarrahmani](https://sites.google.com/site/farzadjafarrahmani/home )
-* Special session associated with the invited talk of Philippa Gardner (organiser Philippa Gardner)
 
 ## PROGRAMME COMMITTEE: 
 
