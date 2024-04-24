@@ -59,7 +59,7 @@ There will be 4 invited speakers.
 
 ## SPECIAL SESSIONS
 
-There will be 3 special sessions.
+There will be 2 special sessions.
 
 * Special session in memory of Philip Scott  (joint session with ACT, organiser Rick Blute). Speakers:
     - [Rick Blute](https://www.uottawa.ca/faculty-science/professors/richard-blute)
