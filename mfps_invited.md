@@ -15,9 +15,8 @@ MFPS will have four invited speakers:
 
 # Special sessions
 
-There will also be three special sessions.
+There will also be two special sessions.
 
 * Special session in memory of Philip Scott  (joint session with ACT, organiser [Rick Blute](https://richardblute.ca/))
 * Special session on the semantics of non-wellfounded and circular proofs (organisers [Anupam Das](https://www.anupamdas.com/) and [Abhishek De](https://www.irif.fr/portraits/abhishek-de))
-* Special session associated with the invited talk of Philippa Gardner (organiser Philippa Gardner)
 
