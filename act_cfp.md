@@ -45,7 +45,7 @@ For all planned submissions, please do provide a title and short text abstract b
 The full two-page pdf extended abstract submissions and up to 14 page proceedings submissions are both due by the submissions deadline of March 29 11:59pm aoe.
 
 
-Please contact the organisers for more information: 
+Please contact the Programme Committee Chairs for more information: 
 David Jaz Myers (Abu Dhabi) and Michael Johnson (Sydney).
 
 ## Programme Committee
@@ -64,11 +64,13 @@ David Jaz Myers (Abu Dhabi) and Michael Johnson (Sydney).
 * Richard Garner, Macquarie University
 * Neil Ghani, University of Strathclyde
 * Amar Hadzihasanovic, Tallinn University of Technology
+* Michael Johnson, Macquarie University
 * Martha Lewis, University of Bristol
 * Sophie Libkind, Topos Institute
 * Rory Lucyshyn-wright, Brandon University
 * Owen Lynch, Topos Institute
 * Sean Moss, University of Oxford
+* David Jaz Myers, NYU Abu Dhabi
 * Evan Patterson, Topos Institute
 * Paolo Perrone, University of Oxford
 * Paige Randall North, University of Utrecht
