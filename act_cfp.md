@@ -48,3 +48,42 @@ The full two-page pdf extended abstract submissions and up to 14 page proceeding
 Please contact the organisers for more information: 
 David Jaz Myers (Abu Dhabi) and Michael Johnson (Sydney).
 
+## Programme Committee
+
+* Benedikt Ahrens, Delft University of Technology and University of Birmingham
+* Dylan Braithwaite, University of Strathclyde
+* Spencer Breiner, NIST
+* Matteo Capucci, University of Strathclyde
+* Titouan Carette, University of Latvia
+* Bryce Clarke, Inria Saclay Centre
+* Greta Coraglia, University of Milan
+* Geoffrey Cruttwell, Mount Allison University
+* Mathew Di Meglio, University of Edinburgh
+* Bojana Femic, Serbian Academy of Sciences And Arts
+* Fabio Gadducci, University of Pisa
+* Richard Garner, Macquarie University
+* Neil Ghani, University of Strathclyde
+* Amar Hadzihasanovic, Tallinn University of Technology
+* Martha Lewis, University of Bristol
+* Sophie Libkind, Topos Institute
+* Rory Lucyshyn-wright, Brandon University
+* Owen Lynch, Topos Institute
+* Sean Moss, University of Oxford
+* Evan Patterson, Topos Institute
+* Paolo Perrone, University of Oxford
+* Paige Randall North, University of Utrecht
+* Sophie Raynor, James Cook University
+* Emily Roff, University of Edinburgh
+* Morgan Rogers, Universite Sorbonne Paris Nord
+* Mario Roman, Tallinn University of Technology
+* Maru Sarazola, University of Minnesota
+* Bas Spitters, Aarhus University
+* Priyaa Varshinee Srinivasan, Topos Institute
+* Sam Staton, University of Oxford
+* Dario Stein, Radboud University Nijmegen
+* Eswaran Subrahmanian, Nist, CMU
+* Ana Luiza da Conceicao Tenorio, University of S?o Paulo
+* Kobe Wullaert, Delft University of Technology
+* Ryan Wisnesky, Conexus
+* Vladimir Zamdzhiev, Inria
+* Fabio Zanasi, University College London
