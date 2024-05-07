@@ -84,7 +84,7 @@ David Jaz Myers (Abu Dhabi) and Michael Johnson (Sydney).
 * Sam Staton, University of Oxford
 * Dario Stein, Radboud University Nijmegen
 * Eswaran Subrahmanian, Nist, CMU
-* Ana Luiza da Conceicao Tenorio, University of S?o Paulo
+* Ana Luiza da Conceicao Tenorio, University of Sao Paulo
 * Kobe Wullaert, Delft University of Technology
 * Ryan Wisnesky, Conexus
 * Vladimir Zamdzhiev, Inria
