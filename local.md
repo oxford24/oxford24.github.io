@@ -14,11 +14,11 @@ The conferences will be based in and around the Department of Computer Science i
 
 * There will be a registration fee to cover room hire and so on. Registration is not open yet. Here are approximate earlybird registration fees. Registration does not include meals or accommodation.
 
- * Five days: £140 
- * Wed-Fri:  £110 
- * Five days student: £40 
- * Wed-Fri student: £30 
- * MFPS banquet: £50 (TBC) 
+    * Five days: £140 
+    * Wed-Fri:  £110 
+    * Five days student: £40 
+    * Wed-Fri student: £30 
+    * MFPS banquet: £50 (TBC) 
 
 * For any general enquiries, please contact [Sam](https://www.cs.ox.ac.uk/people/samuel.staton/main.html). 
 
