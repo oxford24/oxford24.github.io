@@ -43,10 +43,14 @@ characterisation of this class of topos._
 
 (Organisers: Anupam Das and Abhishek De.)
 
-## ACT contributed talks
+## Contributed talks
+
+Jump to [ACT contributed talks](#ACT contributed talks) or [MFPS contributed talks](#MFPS contributed talks).
+
+### ACT contributed talks
 
 * Paolo Perrone, Ruben Van Belle &mdash; _Convergence of martingales via enriched dagger categories._
-* Owen Lynch, David Spivak, Matteo Capucci emdash; _Organizing physics with open energy-driven systems_
+* Owen Lynch, David Spivak, Matteo Capucci &mdash; _Organizing physics with open energy-driven systems_
 * Filippo Bonchi, Elena Di Lavore, Mario Román &mdash; _Effectful streams_
 * Benedikt Peterseim &mdash; _A Convenient Topological Setting for Higher-Order Probability Theory_
 * Bryce Clarke &mdash; _The Grothendieck construction for delta lenses._
@@ -94,7 +98,7 @@ characterisation of this class of topos._
 * Leo Lobski, Fabio Zanasi, Ella Melissa Gale  &mdash; _Disconnection Rules are Complete for Chemical Reactions_
 * Sean Tull, Robin Lorenz, Stephen Clark  &mdash; _Towards Compositional Interpretability_
 
-# MFPS contributed talks
+### MFPS contributed talks
 
 
 * <div class="paper"><span class="authors"><span><a href="https://www.birmingham.ac.uk/schools/mathematics/people/navigation.aspx?ReferenceId=205075&amp;Name=dr-amin-farjudian">Amin Farjudian</a> and <a href="https://www.cs.bham.ac.uk/~axj/">Achim Jung</a></span> &mdash; </span><i><span class="title">Continuous Domains for Function Spaces Using Spectral Compactification</span></i></div>
