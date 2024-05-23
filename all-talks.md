@@ -8,11 +8,6 @@ layout: actmfps
 
 * [Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/) (University of Cambridge Emeritus, joint ACT/MFPS plenary speaker)
 
-* Special session on the semantics of non-wellfounded and circular proofs (organisers Anupam Das and Abhishek De). Speakers:
-    - [Gianluca Curzi](https://gianlucacurzi.com/ )
-    - [Farzaneh Derakhshan](http://gauss.cs.iit.edu/~fderakhshan/ )
-    - [Farzad Jafarrahmani](https://sites.google.com/site/farzadjafarrahmani/home )
-
 ## Joint ACT&amp;MFPS special session in memory of Phil Scott
 
 * [Rick Blute](https://www.uottawa.ca/faculty-science/professors/richard-blute)
@@ -26,7 +21,7 @@ layout: actmfps
 * [Ohad Kammar](https://denotational.co.uk) (University of Edinburgh, UK)
 * [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/) (INRIA Saclay & LIX, France)
 
-## MFPS special session on cyclic proofs
+## MFPS special session on non-wellfounded and cyclic proofs
 
 * [Gianluca Curzi](https://gianlucacurzi.com/ )
 * [Farzaneh Derakhshan](http://gauss.cs.iit.edu/~fderakhshan/ )
@@ -34,56 +29,56 @@ layout: actmfps
 
 (Organisers: Anupam Das and Abhishek De.)
 
-# ACT contributed talks
+## ACT contributed talks
 
-* Paolo Perrone, Ruben Van Belle: Convergence of martingales via enriched dagger categories.
-* Owen Lynch, David Spivak, Matteo Capucci: Organizing physics with open energy-driven systems
-* Filippo Bonchi, Elena Di Lavore, Mario Román: Effectful streams
-* Benedikt Peterseim: A Convenient Topological Setting for Higher-Order Probability Theory
-* Bryce Clarke:	The Grothendieck construction for delta lenses.
-* Leihao Chen, Tobias Fritz, Tomáš Gonda, Andreas Klingler, Antonio Lorenzin: The Aldous-Hoover Theorem in Categorical Probability
-* Toby St Clere Smithe: Copy-composition for probabilistic graphical models
-* Dario Maximilian Stein, Márk Széles: Combs, Causality and Contractions in Atomic Markov Categories
-* Representing Knowledge and Querying Data using Double-Functorial Semantics - Michael Lambert, Evan Patterson 
-* Partial and Relational Algebraic Theories - Chad Nester
-* Fibrational perspectives on determinization of finite-state automata - Thea Li
-* Proqueries and Praqueries - Gabriel Goren Roig, Joshua Meyers, Emilio Minichiello, Ryan Wisnesky
-* Presenting Profunctors - Gabriel Goren Roig, Joshua Meyers, Emilio Minichiello
-* Pattern runs on matter: The free monad monad as a module over the cofree comonad comonad - Sophie Libkind, David Spivak 
-* Compositional statistical mechanics, entropy and variational free energy - Grégoire Sergeant-Perthuis
-* ModelCollab: Software for Compositional Modeling - John Carlos Baez, Xiaoyan Li, Nathaniel D. Osgood 
-* ViCAR: Visualizing Categories with Automated Rewriting in Coq - Bhakti Shah, William Spencer, Laura Zielinski, Ben Caldwell, Adrian Lehmann, Robert Rand 
-* Towards a Unified Theory of Time-Varying Data - Benjamin Merlin Bumpus, James Fairbanks, Martti Karvonen, Wilmer Leal, Frédéric Simard 
-* Inference on poset-shaped diagrams in the category of Markov kernels - Grégoire Sergeant-Perthuis, Nils Ruet 
-* Categorical Decision Theory - Marcus Pivato
-* How Nice is this Functor? Two Squares and Some Homology go a Long Way - Benjamin Merlin Bumpus, Daniel Rosiak, Caterina Puca, Fabrizio Romano Genovese, James Fairbanks 
-* Expansion of the (category) theory of metric spaces and fuzzy simplicial sets and their applications to data analysis - Lukas Barth, Jürgen Jost, Thomas Jan Mikhail, Janis Keck, Parvaneh Joharinad, Fatemeh Hannaneh Fahimi Sheyjani 
-* Homotopical characterization of strong contextuality - Aziz Kharoof, Cihan Okay
-* Categorified Path Calculus - Simon Burton
-* Monoidal Streams and Probabilistic Dataflow with DisCoPy - Alexis Toumi, Richie Yeung, Boldizsár Poór, Giovanni de Felice
-* Equivariant stochastic neural networks in Markov categories - Rob Cornish
-* Generalized Gradient Descent is a Hypergraph Functor - Tyler E Hanks, Matthew Klawonn, James Fairbanks  
-* \textsc{Catgrad}: A Categorical Compiler for Deep Learning - Paul W Wilson
-* No-go theorems: Polynomial comonads that do not distribute over distribution monads - Nihil Shah, Amin Karamlou 
-* High schoolers excel at Oxford post-graduate quantum exam: experimental evidence in support of quantum picturalism. - Bob Coecke, Aleks Kissinger, Stefano Gogioso, Selma Dundar-Coecke, Caterina Puca, Lia Yeh, Muhammad Hamza Waseem, Vincent Wang-Mascianica, Sieglinde Pfaendler, Thomas Cervoni, Ferdi Tomassini, Vincent Anandraj, Peter Sigrist
-* Graphical Symplectic Algebra - Robert I Booth, Titouan Carette, Cole Comfort
-* Complete equational theories for classical and quantum Gaussian relations - Robert I Booth, Titouan Carette, Cole Comfort
-* A Profunctorial Semantics for Quantum Supermaps - James Hefford, Matt Wilson
-* A Coalgebraic Model of Quantum Bisimulation - Lorenzo Ceragioli, Elena Di Lavore, Giuseppe Lomurno, Gabriele Tedeschi
-* Completeness of graphical languages for finite dimensional Hilbert spaces - Razin A. Shaikh, Boldizsár Poór, Quanlong Wang 
-An operadic approach to convexity - Redi Haderi
-Universal recursive preference structures - Marcus Pivato
-Partial Combinatory Algebras for Intensional Type Theory - Sam Speight 
-Abstract Kleisli structures on 2-categories - Adrian Miranda
-Learners are Almost Free Compact Closed - Mitchell Riley
-Monoidal Optics are Universal - Matt Earnshaw, James Hefford, Mario Román 
-Reinforcement Learning in Categorical Cybernetics - Jules Hedges, Riu Rodriguez Sakamoto 
-Reverse Faà di Bruno's Formula - JS Pacaud Lemay, Aaron Biggin 
-A Compositional Framework for First-Order Optimization - Tyler E Hanks, Matthew Klawonn, Matthew Hale, Evan Patterson, James Fairbanks 
-A Fully Compositional Theory of Sequential Digital Circuits - George Kaye
-Higher-Order DisCoCat (Peirce-Lambek-Montague semantics) - Alexis Toumi, Giovanni de Felice 
-Disconnection Rules are Complete for Chemical Reactions - Leo Lobski, Fabio Zanasi, Ella Melissa Gale 
-Towards Compositional Interpretability - Sean Tull, Robin Lorenz, Stephen Clark 
+* Paolo Perrone, Ruben Van Belle &mdash; _Convergence of martingales via enriched dagger categories._
+* Owen Lynch, David Spivak, Matteo Capucci emdash; _Organizing physics with open energy-driven systems_
+* Filippo Bonchi, Elena Di Lavore, Mario Román &mdash; _Effectful streams_
+* Benedikt Peterseim &mdash; _A Convenient Topological Setting for Higher-Order Probability Theory_
+* Bryce Clarke &mdash; _The Grothendieck construction for delta lenses._
+* Leihao Chen, Tobias Fritz, Tomáš Gonda, Andreas Klingler, Antonio Lorenzin &mdash; _The Aldous-Hoover Theorem in Categorical Probability_
+* Toby St Clere Smithe &mdash; _Copy-composition for probabilistic graphical models_
+* Dario Maximilian Stein, Márk Széles &mdash; _Combs, Causality and Contractions in Atomic Markov Categories_
+* Michael Lambert, Evan Patterson &mdash; _Representing Knowledge and Querying Data using Double-Functorial Semantics_
+* Chad Nester &mdash; _Partial and Relational Algebraic Theories_
+* Thea Li &mdash; _Fibrational perspectives on determinization of finite-state automata_
+* Gabriel Goren Roig, Joshua Meyers, Emilio Minichiello, Ryan Wisnesky &mdash; _Proqueries and Praqueries_
+* Gabriel Goren Roig, Joshua Meyers, Emilio Minichiello &mdash; _Presenting Profunctors_
+* Sophie Libkind, David Spivak  &mdash; _Pattern runs on matter: The free monad monad as a module over the cofree comonad comonad_
+* Grégoire Sergeant-Perthuis &mdash; _Compositional statistical mechanics, entropy and variational free energy_
+* John Carlos Baez, Xiaoyan Li, Nathaniel D. Osgood  &mdash; _ModelCollab: Software for Compositional Modeling_
+* Bhakti Shah, William Spencer, Laura Zielinski, Ben Caldwell, Adrian Lehmann, Robert Rand  &mdash; _ViCAR: Visualizing Categories with Automated Rewriting in Coq_
+* Benjamin Merlin Bumpus, James Fairbanks, Martti Karvonen, Wilmer Leal, Frédéric Simard  &mdash; _Towards a Unified Theory of Time-Varying Data_
+* Grégoire Sergeant-Perthuis, Nils Ruet  &mdash; _Inference on poset-shaped diagrams in the category of Markov kernels_
+* Marcus Pivato &mdash; _Categorical Decision Theory_
+* Benjamin Merlin Bumpus, Daniel Rosiak, Caterina Puca, Fabrizio Romano Genovese, James Fairbanks  &mdash; _How Nice is this Functor? Two Squares and Some Homology go a Long Way_
+* Lukas Barth, Jürgen Jost, Thomas Jan Mikhail, Janis Keck, Parvaneh Joharinad, Fatemeh Hannaneh Fahimi Sheyjani  &mdash; _Expansion of the (category) theory of metric spaces and fuzzy simplicial sets and their applications to data analysis_
+* Aziz Kharoof, Cihan Okay &mdash; _Homotopical characterization of strong contextuality_
+* Simon Burton &mdash; _Categorified Path Calculus_
+* Alexis Toumi, Richie Yeung, Boldizsár Poór, Giovanni de Felice &mdash; _Monoidal Streams and Probabilistic Dataflow with DisCoPy_
+* Rob Cornish &mdash; _Equivariant stochastic neural networks in Markov categories_
+* Tyler E Hanks, Matthew Klawonn, James Fairbanks   &mdash; _Generalized Gradient Descent is a Hypergraph Functor_
+* Paul W Wilson &mdash; _\textsc{Catgrad}: A Categorical Compiler for Deep Learning_
+* Nihil Shah, Amin Karamlou  &mdash; _No-go theorems: Polynomial comonads that do not distribute over distribution monads_
+* Bob Coecke, Aleks Kissinger, Stefano Gogioso, Selma Dundar-Coecke, Caterina Puca, Lia Yeh, Muhammad Hamza Waseem, Vincent Wang-Mascianica, Sieglinde Pfaendler, Thomas Cervoni, Ferdi Tomassini, Vincent Anandraj, Peter Sigrist &mdash; _High schoolers excel at Oxford post-graduate quantum exam: experimental evidence in support of quantum picturalism._
+* Robert I Booth, Titouan Carette, Cole Comfort &mdash; _Graphical Symplectic Algebra_
+* Robert I Booth, Titouan Carette, Cole Comfort &mdash; _Complete equational theories for classical and quantum Gaussian relations_
+* James Hefford, Matt Wilson &mdash; _A Profunctorial Semantics for Quantum Supermaps_
+* Lorenzo Ceragioli, Elena Di Lavore, Giuseppe Lomurno, Gabriele Tedeschi &mdash; _A Coalgebraic Model of Quantum Bisimulation_
+* Razin A. Shaikh, Boldizsár Poór, Quanlong Wang  &mdash; _Completeness of graphical languages for finite dimensional Hilbert spaces_
+* Redi Haderi &mdash; _An operadic approach to convexity_
+* Marcus Pivato &mdash; _Universal recursive preference structures_
+* Sam Speight  &mdash; _Partial Combinatory Algebras for Intensional Type Theory_
+* Adrian Miranda &mdash; _Abstract Kleisli structures on 2-categories_
+* Mitchell Riley &mdash; _Learners are Almost Free Compact Closed_
+* Matt Earnshaw, James Hefford, Mario Román  &mdash; _Monoidal Optics are Universal_
+* Jules Hedges, Riu Rodriguez Sakamoto  &mdash; _Reinforcement Learning in Categorical Cybernetics_
+* JS Pacaud Lemay, Aaron Biggin  &mdash; _Reverse Faà di Bruno's Formula_
+* Tyler E Hanks, Matthew Klawonn, Matthew Hale, Evan Patterson, James Fairbanks  &mdash; _A Compositional Framework for First-Order Optimization_
+* George Kaye &mdash; _A Fully Compositional Theory of Sequential Digital Circuits_
+* Alexis Toumi, Giovanni de Felice  &mdash; _Higher-Order DisCoCat (Peirce-Lambek-Montague semantics)_
+* Leo Lobski, Fabio Zanasi, Ella Melissa Gale  &mdash; _Disconnection Rules are Complete for Chemical Reactions_
+* Sean Tull, Robin Lorenz, Stephen Clark  &mdash; _Towards Compositional Interpretability_
 
 # MFPS contributed talks
 
