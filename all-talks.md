@@ -22,7 +22,7 @@ characterisation of this class of topos._
 
 ## Joint ACT &amp; MFPS special session in memory of Phil Scott
 
-* [Rick Blute](https://www.uottawa.ca/faculty-science/professors/richard-blute)
+* [Rick Blute](https://www.uottawa.ca/faculty-science/professors/richard-blute) (organizer)
 * [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/)
 * [Robin Cockett](http://pages.cpsc.ucalgary.ca/~robin/)
 * [Mark Lawson](https://researchportal.hw.ac.uk/en/persons/mark-lawson)
