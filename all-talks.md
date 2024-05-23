@@ -45,7 +45,7 @@ characterisation of this class of topos._
 
 ## Contributed talks
 
-Jump to [ACT contributed talks](#ACT contributed talks) or [MFPS contributed talks](#MFPS contributed talks).
+Jump to [ACT contributed talks](#act-contributed-talks) or [MFPS contributed talks](#mfps-contributed-talks).
 
 ### ACT contributed talks
 
