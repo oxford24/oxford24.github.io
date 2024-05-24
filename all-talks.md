@@ -130,4 +130,4 @@ Jump to [ACT contributed talks](#act-contributed-talks) or [MFPS contributed tal
 * ACT Industry Session 
 * ACT session for reporting from the [Adjoint School](https://adjointschool.com)
 
-There will also be a meeting of the [Southern Logic Seminar](https://t-powell.github.io/southern_logic_seminar/sls.html) in Oxford during this week. (Separate sign-up required for this). 
+There will also be a meeting of the [Southern Logic Seminar](https://t-powell.github.io/southern_logic_seminar/sls.html) in Oxford during this week. (Separate sign-up required for this.) 
