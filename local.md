@@ -6,7 +6,7 @@ layout: actmfps
 
 Please register at the [Oxford University Store](https://www.oxforduniversitystores.co.uk/conferences-and-events/computer-science/events/applied-category-theory-and-mathematical-foundations-of-programming-semantics-co-located-conference). 
 
-There is an option on the form for an MFPS dinner. This is an option for all delegates. (For example, if you are giving a talk at ACT but would like to be part of the MFPS dinner you are welcome to sign up for it.) We are planning it for Wednesday 19 June after the session in memory of Phil Scott. We may also need to close the MFPS dinner registration early, possibly as early as 5 June.
+There is an option on the form for an MFPS dinner. This is an option for all delegates. (For example, if you are giving a talk at ACT but would like to be part of the MFPS dinner then you are very welcome to sign up for it.) We are planning it for Wednesday 19 June after the session in memory of Phil Scott. We may also need to close the MFPS dinner registration early, possibly as early as 5 June.
 
 For those that don't need to pay, for example special session speakers, we will be in touch separately with a different form. 
 
