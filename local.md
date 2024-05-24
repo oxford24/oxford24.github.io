@@ -13,6 +13,7 @@ For those that don't need to pay, for example special session speakers, we will 
 Although this is planned as an in-person event, we are hoping to stream the talks, and there will be separate registraton route for that nearer the time. If you are hoping to present a talk remotely, please contact the programme chairs. 
 
 Early registration fees:
+
     * Five days student: £40 
     * Wed-Fri student: £30 
     * Five days: £140 
