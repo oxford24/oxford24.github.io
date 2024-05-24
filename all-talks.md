@@ -124,3 +124,10 @@ Jump to [ACT contributed talks](#act-contributed-talks) or [MFPS contributed tal
 * Early Announcement: Relational parametricity in the presence of GADTs &mdash; <i><a href="https://www.normalesup.org/~cagne/index.html">Pierre Cagne</a> and <a href="http://cs.appstate.edu/johannp">Patricia Johann</a></i>
 * On a fibrational construction for optics, lenses, and Dialectica categories &mdash; 
 <i><a href="https://matteocapucci.wordpress.com">Matteo Capucci</a>, <a href="https://www.brunogavranovic.com/">Bruno Gavranovic</a>, <a href="https://abdullahnaeemmalik.github.io/">Abdullah Malik</a>, <a href="https://www.ornl.gov/staff-profile/francisco-r-rios">Francisco Rios</a> and <a href="https://sites.google.com/view/jonathanweinberger">Jonathan Weinberger</a></i>
+
+## Additional sessions
+
+* ACT Industry Session 
+* ACT session for reporting from the Adjoint School
+
+There will also be a meeting of the [Southern Logic Seminar](https://t-powell.github.io/southern_logic_seminar/sls.html) in Oxford during this week. (Separate sign-up required for this). 
