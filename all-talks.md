@@ -76,7 +76,7 @@ Jump to [ACT contributed talks](#act-contributed-talks) or [MFPS contributed tal
 * Monoidal Streams and Probabilistic Dataflow with DisCoPy &mdash; <i>Alexis Toumi, Richie Yeung, Boldizsár Poór, Giovanni de Felice</i>
 * Equivariant stochastic neural networks in Markov categories &mdash; <i>Rob Cornish</i>
 * Generalized Gradient Descent is a Hypergraph Functor &mdash; <i>Tyler E Hanks, Matthew Klawonn, James Fairbanks  </i>
-* \textsc{Catgrad}: A Categorical Compiler for Deep Learning &mdash; <i>Paul W Wilson</i>
+* Catgrad: A Categorical Compiler for Deep Learning &mdash; <i>Paul W Wilson</i>
 * No-go theorems: Polynomial comonads that do not distribute over distribution monads &mdash; <i>Nihil Shah, Amin Karamlou </i>
 * High schoolers excel at Oxford post-graduate quantum exam: experimental evidence in support of quantum picturalism. &mdash; <i>Bob Coecke, Aleks Kissinger, Stefano Gogioso, Selma Dundar-Coecke, Caterina Puca, Lia Yeh, Muhammad Hamza Waseem, Vincent Wang-Mascianica, Sieglinde Pfaendler, Thomas Cervoni, Ferdi Tomassini, Vincent Anandraj, Peter Sigrist</i>
 * Graphical Symplectic Algebra &mdash; <i>Robert I Booth, Titouan Carette, Cole Comfort</i>
