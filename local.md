@@ -14,7 +14,7 @@ Early registration fees:
 * Wed-Fri:  £110 
 * MFPS dinner: £50
 
- There is an option during registration for an MFPS dinner. This is an option for all delegates. (For example, if you are giving a talk at ACT but would like to be part of the MFPS dinner then you are very welcome to sign up for it.) We are planning it for Wednesday 19 June after the session in memory of Phil Scott. We may also need to close the MFPS dinner registration early, possibly as early as 5 June.
+ There is an option during registration for an MFPS dinner. This is an option for all delegates. (For example, if you are giving a talk at ACT but would like to be part of the MFPS dinner then you are very welcome to sign up for it.) We are planning it for Wednesday 19 June after the session in memory of Phil Scott. We may need to close the MFPS dinner registration well in advance of the conference so please sign up earlier if you would like to come.
 
 Although this is planned as an in-person event, we are hoping to stream the talks, and there will be separate registraton route for that nearer the time. If you are hoping to present a talk remotely, please contact the programme chairs. 
 
