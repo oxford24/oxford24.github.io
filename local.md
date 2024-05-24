@@ -18,7 +18,7 @@ Please register at the [Oxford University Store](https://www.oxforduniversitysto
     * Five days: £140 
     * Wed-Fri:  £110 
     * MFPS dinner: £50
-  Early registration closes 31 May 2024. 
+  Early registration closes 31 May 2024. Registration does not include meals or accommodation.
 
 
 
