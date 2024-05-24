@@ -49,78 +49,78 @@ Jump to [ACT contributed talks](#act-contributed-talks) or [MFPS contributed tal
 
 ### ACT contributed talks
 
-* Paolo Perrone, Ruben Van Belle &mdash; _Convergence of martingales via enriched dagger categories._
-* Owen Lynch, David Spivak, Matteo Capucci &mdash; _Organizing physics with open energy-driven systems_
-* Filippo Bonchi, Elena Di Lavore, Mario Román &mdash; _Effectful streams_
-* Benedikt Peterseim &mdash; _A Convenient Topological Setting for Higher-Order Probability Theory_
-* Bryce Clarke &mdash; _The Grothendieck construction for delta lenses._
-* Leihao Chen, Tobias Fritz, Tomáš Gonda, Andreas Klingler, Antonio Lorenzin &mdash; _The Aldous-Hoover Theorem in Categorical Probability_
-* Toby St Clere Smithe &mdash; _Copy-composition for probabilistic graphical models_
-* Dario Maximilian Stein, Márk Széles &mdash; _Combs, Causality and Contractions in Atomic Markov Categories_
-* Michael Lambert, Evan Patterson &mdash; _Representing Knowledge and Querying Data using Double-Functorial Semantics_
-* Chad Nester &mdash; _Partial and Relational Algebraic Theories_
-* Thea Li &mdash; _Fibrational perspectives on determinization of finite-state automata_
-* Gabriel Goren Roig, Joshua Meyers, Emilio Minichiello, Ryan Wisnesky &mdash; _Proqueries and Praqueries_
-* Gabriel Goren Roig, Joshua Meyers, Emilio Minichiello &mdash; _Presenting Profunctors_
-* Sophie Libkind, David Spivak  &mdash; _Pattern runs on matter: The free monad monad as a module over the cofree comonad comonad_
-* Grégoire Sergeant-Perthuis &mdash; _Compositional statistical mechanics, entropy and variational free energy_
-* John Carlos Baez, Xiaoyan Li, Nathaniel D. Osgood  &mdash; _ModelCollab: Software for Compositional Modeling_
-* Bhakti Shah, William Spencer, Laura Zielinski, Ben Caldwell, Adrian Lehmann, Robert Rand  &mdash; _ViCAR: Visualizing Categories with Automated Rewriting in Coq_
-* Benjamin Merlin Bumpus, James Fairbanks, Martti Karvonen, Wilmer Leal, Frédéric Simard  &mdash; _Towards a Unified Theory of Time-Varying Data_
-* Grégoire Sergeant-Perthuis, Nils Ruet  &mdash; _Inference on poset-shaped diagrams in the category of Markov kernels_
-* Marcus Pivato &mdash; _Categorical Decision Theory_
-* Benjamin Merlin Bumpus, Daniel Rosiak, Caterina Puca, Fabrizio Romano Genovese, James Fairbanks  &mdash; _How Nice is this Functor? Two Squares and Some Homology go a Long Way_
-* Lukas Barth, Jürgen Jost, Thomas Jan Mikhail, Janis Keck, Parvaneh Joharinad, Fatemeh Hannaneh Fahimi Sheyjani  &mdash; _Expansion of the (category) theory of metric spaces and fuzzy simplicial sets and their applications to data analysis_
-* Aziz Kharoof, Cihan Okay &mdash; _Homotopical characterization of strong contextuality_
-* Simon Burton &mdash; _Categorified Path Calculus_
-* Alexis Toumi, Richie Yeung, Boldizsár Poór, Giovanni de Felice &mdash; _Monoidal Streams and Probabilistic Dataflow with DisCoPy_
-* Rob Cornish &mdash; _Equivariant stochastic neural networks in Markov categories_
-* Tyler E Hanks, Matthew Klawonn, James Fairbanks   &mdash; _Generalized Gradient Descent is a Hypergraph Functor_
-* Paul W Wilson &mdash; _\textsc{Catgrad}: A Categorical Compiler for Deep Learning_
-* Nihil Shah, Amin Karamlou  &mdash; _No-go theorems: Polynomial comonads that do not distribute over distribution monads_
-* Bob Coecke, Aleks Kissinger, Stefano Gogioso, Selma Dundar-Coecke, Caterina Puca, Lia Yeh, Muhammad Hamza Waseem, Vincent Wang-Mascianica, Sieglinde Pfaendler, Thomas Cervoni, Ferdi Tomassini, Vincent Anandraj, Peter Sigrist &mdash; _High schoolers excel at Oxford post-graduate quantum exam: experimental evidence in support of quantum picturalism._
-* Robert I Booth, Titouan Carette, Cole Comfort &mdash; _Graphical Symplectic Algebra_
-* Robert I Booth, Titouan Carette, Cole Comfort &mdash; _Complete equational theories for classical and quantum Gaussian relations_
-* James Hefford, Matt Wilson &mdash; _A Profunctorial Semantics for Quantum Supermaps_
-* Lorenzo Ceragioli, Elena Di Lavore, Giuseppe Lomurno, Gabriele Tedeschi &mdash; _A Coalgebraic Model of Quantum Bisimulation_
-* Razin A. Shaikh, Boldizsár Poór, Quanlong Wang  &mdash; _Completeness of graphical languages for finite dimensional Hilbert spaces_
-* Redi Haderi &mdash; _An operadic approach to convexity_
-* Marcus Pivato &mdash; _Universal recursive preference structures_
-* Sam Speight  &mdash; _Partial Combinatory Algebras for Intensional Type Theory_
-* Adrian Miranda &mdash; _Abstract Kleisli structures on 2-categories_
-* Mitchell Riley &mdash; _Learners are Almost Free Compact Closed_
-* Matt Earnshaw, James Hefford, Mario Román  &mdash; _Monoidal Optics are Universal_
-* Jules Hedges, Riu Rodriguez Sakamoto  &mdash; _Reinforcement Learning in Categorical Cybernetics_
-* JS Pacaud Lemay, Aaron Biggin  &mdash; _Reverse Faà di Bruno's Formula_
-* Tyler E Hanks, Matthew Klawonn, Matthew Hale, Evan Patterson, James Fairbanks  &mdash; _A Compositional Framework for First-Order Optimization_
-* George Kaye &mdash; _A Fully Compositional Theory of Sequential Digital Circuits_
-* Alexis Toumi, Giovanni de Felice  &mdash; _Higher-Order DisCoCat (Peirce-Lambek-Montague semantics)_
-* Leo Lobski, Fabio Zanasi, Ella Melissa Gale  &mdash; _Disconnection Rules are Complete for Chemical Reactions_
-* Sean Tull, Robin Lorenz, Stephen Clark  &mdash; _Towards Compositional Interpretability_
+* Convergence of martingales via enriched dagger categories. &mdash; <i>Paolo Perrone, Ruben Van Belle</i>
+* Organizing physics with open energy-driven systems &mdash; <i>Owen Lynch, David Spivak, Matteo Capucci</i>
+* Effectful streams &mdash; <i>Filippo Bonchi, Elena Di Lavore, Mario Román</i>
+* A Convenient Topological Setting for Higher-Order Probability Theory &mdash; <i>Benedikt Peterseim</i>
+* The Grothendieck construction for delta lenses. &mdash; <i>Bryce Clarke</i>
+* The Aldous-Hoover Theorem in Categorical Probability &mdash; <i>Leihao Chen, Tobias Fritz, Tomáš Gonda, Andreas Klingler, Antonio Lorenzin</i>
+* Copy-composition for probabilistic graphical models &mdash; <i>Toby St Clere Smithe</i>
+* Combs, Causality and Contractions in Atomic Markov Categories &mdash; <i>Dario Maximilian Stein, Márk Széles</i>
+* Representing Knowledge and Querying Data using Double-Functorial Semantics &mdash; <i>Michael Lambert, Evan Patterson</i>
+* Partial and Relational Algebraic Theories &mdash; <i>Chad Nester</i>
+* Fibrational perspectives on determinization of finite-state automata &mdash; <i>Thea Li</i>
+* Proqueries and Praqueries &mdash; <i>Gabriel Goren Roig, Joshua Meyers, Emilio Minichiello, Ryan Wisnesky</i>
+* Presenting Profunctors &mdash; <i>Gabriel Goren Roig, Joshua Meyers, Emilio Minichiello</i>
+* Pattern runs on matter: The free monad monad as a module over the cofree comonad comonad &mdash; <i>Sophie Libkind, David Spivak </i>
+* Compositional statistical mechanics, entropy and variational free energy &mdash; <i>Grégoire Sergeant-Perthuis</i>
+* ModelCollab: Software for Compositional Modeling &mdash; <i>John Carlos Baez, Xiaoyan Li, Nathaniel D. Osgood </i>
+* ViCAR: Visualizing Categories with Automated Rewriting in Coq &mdash; <i>Bhakti Shah, William Spencer, Laura Zielinski, Ben Caldwell, Adrian Lehmann, Robert Rand </i>
+* Towards a Unified Theory of Time-Varying Data &mdash; <i>Benjamin Merlin Bumpus, James Fairbanks, Martti Karvonen, Wilmer Leal, Frédéric Simard </i>
+* Inference on poset-shaped diagrams in the category of Markov kernels &mdash; <i>Grégoire Sergeant-Perthuis, Nils Ruet </i>
+* Categorical Decision Theory &mdash; <i>Marcus Pivato</i>
+* How Nice is this Functor? Two Squares and Some Homology go a Long Way &mdash; <i>Benjamin Merlin Bumpus, Daniel Rosiak, Caterina Puca, Fabrizio Romano Genovese, James Fairbanks </i>
+* Expansion of the (category) theory of metric spaces and fuzzy simplicial sets and their applications to data analysis &mdash; <i>Lukas Barth, Jürgen Jost, Thomas Jan Mikhail, Janis Keck, Parvaneh Joharinad, Fatemeh Hannaneh Fahimi Sheyjani </i>
+* Homotopical characterization of strong contextuality &mdash; <i>Aziz Kharoof, Cihan Okay</i>
+* Categorified Path Calculus &mdash; <i>Simon Burton</i>
+* Monoidal Streams and Probabilistic Dataflow with DisCoPy &mdash; <i>Alexis Toumi, Richie Yeung, Boldizsár Poór, Giovanni de Felice</i>
+* Equivariant stochastic neural networks in Markov categories &mdash; <i>Rob Cornish</i>
+* Generalized Gradient Descent is a Hypergraph Functor &mdash; <i>Tyler E Hanks, Matthew Klawonn, James Fairbanks  </i>
+* \textsc{Catgrad}: A Categorical Compiler for Deep Learning &mdash; <i>Paul W Wilson</i>
+* No-go theorems: Polynomial comonads that do not distribute over distribution monads &mdash; <i>Nihil Shah, Amin Karamlou </i>
+* High schoolers excel at Oxford post-graduate quantum exam: experimental evidence in support of quantum picturalism. &mdash; <i>Bob Coecke, Aleks Kissinger, Stefano Gogioso, Selma Dundar-Coecke, Caterina Puca, Lia Yeh, Muhammad Hamza Waseem, Vincent Wang-Mascianica, Sieglinde Pfaendler, Thomas Cervoni, Ferdi Tomassini, Vincent Anandraj, Peter Sigrist</i>
+* Graphical Symplectic Algebra &mdash; <i>Robert I Booth, Titouan Carette, Cole Comfort</i>
+* Complete equational theories for classical and quantum Gaussian relations &mdash; <i>Robert I Booth, Titouan Carette, Cole Comfort</i>
+* A Profunctorial Semantics for Quantum Supermaps &mdash; <i>James Hefford, Matt Wilson</i>
+* A Coalgebraic Model of Quantum Bisimulation &mdash; <i>Lorenzo Ceragioli, Elena Di Lavore, Giuseppe Lomurno, Gabriele Tedeschi</i>
+* Completeness of graphical languages for finite dimensional Hilbert spaces &mdash; <i>Razin A. Shaikh, Boldizsár Poór, Quanlong Wang </i>
+* An operadic approach to convexity &mdash; <i>Redi Haderi</i>
+* Universal recursive preference structures &mdash; <i>Marcus Pivato</i>
+* Partial Combinatory Algebras for Intensional Type Theory &mdash; <i>Sam Speight </i>
+* Abstract Kleisli structures on 2-categories &mdash; <i>Adrian Miranda</i>
+* Learners are Almost Free Compact Closed &mdash; <i>Mitchell Riley</i>
+* Monoidal Optics are Universal &mdash; <i>Matt Earnshaw, James Hefford, Mario Román </i>
+* Reinforcement Learning in Categorical Cybernetics &mdash; <i>Jules Hedges, Riu Rodriguez Sakamoto </i>
+* Reverse Faà di Bruno's Formula &mdash; <i>JS Pacaud Lemay, Aaron Biggin </i>
+* A Compositional Framework for First-Order Optimization &mdash; <i>Tyler E Hanks, Matthew Klawonn, Matthew Hale, Evan Patterson, James Fairbanks </i>
+* A Fully Compositional Theory of Sequential Digital Circuits &mdash; <i>George Kaye</i>
+* Higher-Order DisCoCat (Peirce-Lambek-Montague semantics) &mdash; <i>Alexis Toumi, Giovanni de Felice </i>
+* Disconnection Rules are Complete for Chemical Reactions &mdash; <i>Leo Lobski, Fabio Zanasi, Ella Melissa Gale </i>
+* Towards Compositional Interpretability &mdash; <i>Sean Tull, Robin Lorenz, Stephen Clark </i>
 
 ### MFPS contributed talks
 
 
-* <div class="paper"><span class="authors"><span><a href="https://www.birmingham.ac.uk/schools/mathematics/people/navigation.aspx?ReferenceId=205075&amp;Name=dr-amin-farjudian">Amin Farjudian</a> and <a href="https://www.cs.bham.ac.uk/~axj/">Achim Jung</a></span> &mdash; </span><i><span class="title">Continuous Domains for Function Spaces Using Spectral Compactification</span></i></div>
-* <div class="paper"><span class="authors">Alex Kavvos &mdash; </span><i><span class="title">Two-dimensional Kripke Semantics II: Stability and Completeness</span></i></div>
-* <div class="paper"><span class="authors"><span>Samson Abramsky, <a href="https://www.cl.cam.ac.uk/~ym374/">Yoàv Montacute</a> and <a href="http://www.cs.ox.ac.uk/people/nihil.shah/">Nihil Shah</a></span> &mdash; </span><i><span class="title">Linear Arboreal Categories</span></i></div>
-* <div class="paper"><span class="authors"><a href="https://sites.google.com/view/jspl-personal-webpage/">Jean-Simon Lemay</a> &mdash; </span><i><span class="title">An Ultrametric for Cartesian Differential Categories for Taylor Series Convergence</span></i></div>
-* <div class="paper"><span class="authors"><span>Thibaut Benjamin, Ioannis Markakis and Chiara Sarti</span> &mdash; </span><i><span class="title">CaTT contexts are finite computads</span></i></div>
-* <div class="paper"><span class="authors"><span><a href="https://basvdheuvel.github.io/">Bas van den Heuvel</a>, <a href="http://www.mat.unb.br/~dnantes">Daniele Nantes-Sobrinho</a>, Joseph Paulus and <a href="http://www.jperez.nl">Jorge A &mdash; Pérez</a></span> &mdash; </span><i><span class="title">Typed Non-determinism in Concurrent Calculi: The Eager Way</span></i></div>
-* <div class="paper"><span class="authors"><span><a href="http://www.lix.polytechnique.fr/Labo/Elies.HARINGTON/">Elies Harington</a> and <a href="http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/">Samuel Mimram</a></span> &mdash; </span><i><span class="title">Polynomials in homotopy type theory as a Kleisli category</span></i></div>
-* <div class="paper"><span class="authors"><span>Owen Lynch, Kris Brown, James Fairbanks and <a href="https://www.epatters.org">Evan Patterson</a></span> &mdash; </span><i><span class="title">GATlab: Modeling and Programming with Generalized Algebraic Theories</span></i></div>
-* <div class="paper"><span class="authors"><span><a href="https://www.harrisongrodin.com/">Harrison Grodin</a> and <a href="http://www.cs.cmu.edu/~rwh">Robert Harper</a></span> &mdash; </span><i><span class="title">Amortized Analysis via Coalgebra</span></i></div>
-* <div class="paper"><span class="authors"><span><a href="http://www.alexandergheorghiu.com/">Alexander Gheorghiu</a>, Tao Gu and <a href="http://www.cs.ucl.ac.uk/staff/D.Pym/">David Pym</a></span> &mdash; </span><i><span class="title">Inferentialist Resource Semantics</span></i></div>
-* <div class="paper"><span class="authors"><span><a href="https://www.math.muni.cz/~jurka/">Jan Jurka</a>, <a href="http://www.stefan-milius.eu">Stefan Milius</a> and <a href="https://www8.cs.fau.de/people/henning-urbat/">Henning Urbat</a></span> &mdash; </span><i><span class="title">Algebraic Reasoning over Relational Structures</span></i></div>
-* <div class="paper"><span class="authors"><span>Daniel Luckhardt, Harsh Beohar and Sebastian Küpper</span> &mdash; </span><i><span class="title">On Kleisli extensions and decorated trace semantics</span></i></div>
-* <div class="paper"><span class="authors"><a href="http://cs.bath.ac.uk/~wbh22">Willem Heijltjes</a> &mdash; </span><i><span class="title">The Functional Machine Calculus III: Choice (Early Announcement)</span></i></div>
-* <div class="paper"><span class="authors"><span><a href="http://cs-web.swan.ac.uk/~cpradic">Cécilia Pradic</a> and Ian Price</span> &mdash; </span><i><span class="title">Implicit automata in λ-calculi III: affine planar string-to-string functions</span></i></div>
-* <div class="paper"><span class="authors"><span><a href="http://bentnib.org/">Robert Atkey</a> and Wen Kokke</span> &mdash; </span><i><span class="title">A Semantic Proof of Generalised Cut Elimination for Deep Inference</span></i></div>
-* <div class="paper"><span class="authors"><span><a href="http://yuesforest.com">Yue Niu</a>, <a href="http://www.jonmsterling.com/">Jonathan Sterling</a> and <a href="http://www.cs.cmu.edu/~rwh">Robert Harper</a></span> &mdash; </span><i><span class="title">Cost-sensitive computational adequacy of higher-order recursion in synthetic domain theory</span></i></div>
-* <div class="paper"><span class="authors"><span>Jack Liell-Cock and <a href="http://www.cs.ox.ac.uk/people/samuel.staton/main.html">Sam Staton</a></span> &mdash; </span><i><span class="title">Early announcement: Compositional models for imprecise probability</span></i></div>
-* <div class="paper"><span class="authors"><span>Ali Khan Caires Ribeiro, <a href="http://www.inf.kcl.ac.uk/staff/maribel">Maribel Fernandez</a> and <a href="http://www.mat.unb.br/~dnantes">Daniele Nantes-Sobrinho</a></span> &mdash; </span><i><span class="title">A strong nominal semantics for fixed-point constraints</span></i></div>
-* <div class="paper"><span class="authors"><span><a href="https://sites.google.com/site/beniaminoaccattoli/">Beniamino Accattoli</a> and <a href="http://www.lix.polytechnique.fr/Labo/Jui-Hsuan.WU/">Jui-Hsuan Wu</a></span> &mdash; </span><i><span class="title">Positive Focusing is Directly Useful</span></i></div>
-* <div class="paper"><span class="authors"><a href="https://cbaberle.com">C.B - Aberlé</a> &mdash; </span><i><span class="title">Parametricity via Cohesion</span></i></div>
-* <div class="paper"><span class="authors"><span><a href="https://www.normalesup.org/~cagne/index.html">Pierre Cagne</a> and <a href="http://cs.appstate.edu/johannp">Patricia Johann</a></span> &mdash; </span><i><span class="title">Early Announcement: Relational parametricity in the presence of GADTs</span></i></div>
-* <div class="paper"><span class="authors"><span><a href="https://matteocapucci.wordpress.com">Matteo Capucci</a>, <a href="https://www.brunogavranovic.com/">Bruno Gavranovic</a>, <a href="https://abdullahnaeemmalik.github.io/">Abdullah Malik</a>, <a href="https://www.ornl.gov/staff-profile/francisco-r-rios">Francisco Rios</a> and <a href="https://sites.google.com/view/jonathanweinberger">Jonathan Weinberger</a></span> &mdash; </span><i><span class="title">On a fibrational construction for optics, lenses, and Dialectica categories</span>
-
+* Continuous Domains for Function Spaces Using Spectral Compactification &mdash; <i><a href="https://www.birmingham.ac.uk/schools/mathematics/people/navigation.aspx?ReferenceId=205075&amp;Name=dr-amin-farjudian">Amin Farjudian</a> and <a href="https://www.cs.bham.ac.uk/~axj/">Achim Jung</a></i>
+* Two-dimensional Kripke Semantics II: Stability and Completeness &mdash; <i>Alex Kavvos</i>
+* Linear Arboreal Categories &mdash; <i>Samson Abramsky, <a href="https://www.cl.cam.ac.uk/~ym374/">Yoàv Montacute</a> and <a href="http://www.cs.ox.ac.uk/people/nihil.shah/">Nihil Shah</a></i>
+* An Ultrametric for Cartesian Differential Categories for Taylor Series Convergence &mdash; <i><a href="https://sites.google.com/view/jspl-personal-webpage/">Jean-Simon Lemay</a></i>
+* CaTT contexts are finite computads &mdash; <i>Thibaut Benjamin, Ioannis Markakis and Chiara Sarti</i>
+* Typed Non-determinism in Concurrent Calculi: The Eager Way &mdash; <i><a href="https://basvdheuvel.github.io/">Bas van den Heuvel</a>, <a href="http://www.mat.unb.br/~dnantes">Daniele Nantes-Sobrinho</a>, Joseph Paulus and <a href="http://www.jperez.nl">Jorge A &mdash; Pérez</a></i>
+* Polynomials in homotopy type theory as a Kleisli category &mdash; <i><a href="http://www.lix.polytechnique.fr/Labo/Elies.HARINGTON/">Elies Harington</a> and <a href="http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/">Samuel Mimram</a></i>
+* GATlab: Modeling and Programming with Generalized Algebraic Theories &mdash; <i>Owen Lynch, Kris Brown, James Fairbanks and <a href="https://www.epatters.org">Evan Patterson</a></i>
+* Amortized Analysis via Coalgebra &mdash; <i><a href="https://www.harrisongrodin.com/">Harrison Grodin</a> and <a href="http://www.cs.cmu.edu/~rwh">Robert Harper</a></i>
+* Inferentialist Resource Semantics &mdash; <i><a href="http://www.alexandergheorghiu.com/">Alexander Gheorghiu</a>, Tao Gu and <a href="http://www.cs.ucl.ac.uk/staff/D.Pym/">David Pym</a></i>
+* Algebraic Reasoning over Relational Structures &mdash; <i><a href="https://www.math.muni.cz/~jurka/">Jan Jurka</a>, <a href="http://www.stefan-milius.eu">Stefan Milius</a> and <a href="https://www8.cs.fau.de/people/henning-urbat/">Henning Urbat</a></i>
+* On Kleisli extensions and decorated trace semantics &mdash; <i>Daniel Luckhardt, Harsh Beohar and Sebastian Küpper</i>
+* The Functional Machine Calculus III: Choice (Early Announcement) &mdash; <i><a href="http://cs.bath.ac.uk/~wbh22">Willem Heijltjes</a></i>
+* Implicit automata in λ-calculi III: affine planar string-to-string functions &mdash; <i><a href="http://cs-web.swan.ac.uk/~cpradic">Cécilia Pradic</a> and Ian Price</i>
+* A Semantic Proof of Generalised Cut Elimination for Deep Inference &mdash; <i><a href="http://bentnib.org/">Robert Atkey</a> and Wen Kokke</i>
+* Cost-sensitive computational adequacy of higher-order recursion in synthetic domain theory &mdash; <i><a href="http://yuesforest.com">Yue Niu</a>, <a href="http://www.jonmsterling.com/">Jonathan Sterling</a> and <a href="http://www.cs.cmu.edu/~rwh">Robert Harper</a></i>
+* Early announcement: Compositional models for imprecise probability &mdash; <i>Jack Liell-Cock and <a href="http://www.cs.ox.ac.uk/people/samuel.staton/main.html">Sam Staton</a></i>
+* A strong nominal semantics for fixed-point constraints &mdash; <i>Ali Khan Caires Ribeiro, <a href="http://www.inf.kcl.ac.uk/staff/maribel">Maribel Fernandez</a> and <a href="http://www.mat.unb.br/~dnantes">Daniele Nantes-Sobrinho</a></i>
+* Positive Focusing is Directly Useful &mdash; <i><a href="https://sites.google.com/site/beniaminoaccattoli/">Beniamino Accattoli</a> and <a href="http://www.lix.polytechnique.fr/Labo/Jui-Hsuan.WU/">Jui-Hsuan Wu</a></i>
+* Parametricity via Cohesion &mdash; <i><a href="https://cbaberle.com">C.B - Aberlé</a></i>
+* Early Announcement: Relational parametricity in the presence of GADTs &mdash; <i><a href="https://www.normalesup.org/~cagne/index.html">Pierre Cagne</a> and <a href="http://cs.appstate.edu/johannp">Patricia Johann</a></i>
+* On a fibrational construction for optics, lenses, and Dialectica categories &mdash; 
+<i><a href="https://matteocapucci.wordpress.com">Matteo Capucci</a>, <a href="https://www.brunogavranovic.com/">Bruno Gavranovic</a>, <a href="https://abdullahnaeemmalik.github.io/">Abdullah Malik</a>, <a href="https://www.ornl.gov/staff-profile/francisco-r-rios">Francisco Rios</a> and <a href="https://sites.google.com/view/jonathanweinberger">Jonathan Weinberger</a></i>
