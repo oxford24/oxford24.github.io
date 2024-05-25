@@ -37,9 +37,9 @@ Our venue is very near to the bus stops at St Giles' Church, on Banbury Road and
 
 As well as the usual routes ([airbnb](https://www.airbnb.co.uk/oxford-united-kingdom/stays/apartments) and [booking sites](https://www.tripadvisor.co.uk/Hotels-g186361-Oxford_Oxfordshire_England-Hotels.html)) you can try [universityrooms](https://www.universityrooms.com/en-GB/city/oxford/home/). I will update this page if other routes emerge. 
  
- Oxford is always busy. I am told that some university accommodation is likely to become available later in May once the undergraduate students decide when they are leaving. Please fill in [this form](https://forms.gle/jGCWfjG6N2QGM8vPA) if you would like to be notified if and when university accommodation becomes available. Please note nothing is guaranteed by filling in this form.
+Please fill in [this form](https://forms.gle/jGCWfjG6N2QGM8vPA) if you would like to be notified if and when university accommodation becomes available. I am told that some university accommodation is likely to become available later in May once the undergraduate students decide when they are leaving. Please note nothing is guaranteed by filling in this form.
 
-Further afield, you could look at the bus routes. For example, the Pear Tree Park-and-Ride is a 10-15 minute bus ride and has a [Travelodge](https://www.tripadvisor.co.uk/Hotel_Review-g186361-d1027077-Reviews-Travelodge_Oxford_Peartree_Hotel-Oxford_Oxfordshire_England.html) and a [Holiday Inn](https://www.tripadvisor.co.uk/Hotel_Review-g186361-d226318-Reviews-Holiday_Inn_Oxford_an_IHG_Hotel-Oxford_Oxfordshire_England.html?m=19905), which could be cheaper options. 
+The Oxford Pear Tree Park-and-Ride is a 10-15 minute non-stop bus ride and has a [Travelodge](https://www.tripadvisor.co.uk/Hotel_Review-g186361-d1027077-Reviews-Travelodge_Oxford_Peartree_Hotel-Oxford_Oxfordshire_England.html) and a [Holiday Inn](https://www.tripadvisor.co.uk/Hotel_Review-g186361-d226318-Reviews-Holiday_Inn_Oxford_an_IHG_Hotel-Oxford_Oxfordshire_England.html?m=19905), which could be cheaper options. 
 
 
 
