@@ -31,13 +31,13 @@ The conferences will be based in and around the Department of Computer Science i
 
 Oxford is connected by [rail](https://www.nationalrail.co.uk) and bus ([Tube](https://www.oxfordtube.com) / [National Express](https://www.nationalexpress.com/en/help/coach-stations/oxford)). There is convenient access to Heathrow and Birmingham airports, and slightly less convenient access to other London airports. See also the [University guide to getting here](https://www.ox.ac.uk/visitors/visiting-oxford/how-get-oxford). 
 
-Our venue is very near to the bus stops at St Giles' Church, on Banbury Road and Woodstock Road, but not all bus routes stop there (see [Oxford Bus](https://images-oxfordbus.passenger-website.com/2023-08/SmartZone%20Network%20Map%20-%2027th%20August%202023.pdf) for an overview). So you could look for somewhere on those bus lines. Oxford is also reasonably friendly for renting a bike, and many locals cycle around. 
+Our venue is very near to the bus stops at St Giles' Church, on Banbury Road and Woodstock Road, but not all bus routes stop there (see [Oxford Bus](https://images-oxfordbus.passenger-website.com/2023-08/SmartZone%20Network%20Map%20-%2027th%20August%202023.pdf) for an overview). Oxford is also reasonably friendly for renting a bike, and many locals cycle around. 
 
 # Accommodation
 
 As well as the usual routes ([booking sites](https://www.tripadvisor.co.uk/Hotels-g186361-Oxford_Oxfordshire_England-Hotels.html) and [airbnb](https://www.airbnb.co.uk/oxford-united-kingdom/stays/apartments)) you can try [universityrooms](https://www.universityrooms.com/en-GB/city/oxford/home/). 
  
-The Oxford Pear Tree Park-and-Ride is a 10-15 minute non-stop bus ride and has a [Travelodge](https://www.tripadvisor.co.uk/Hotel_Review-g186361-d1027077-Reviews-Travelodge_Oxford_Peartree_Hotel-Oxford_Oxfordshire_England.html) and a [Holiday Inn](https://www.tripadvisor.co.uk/Hotel_Review-g186361-d226318-Reviews-Holiday_Inn_Oxford_an_IHG_Hotel-Oxford_Oxfordshire_England.html?m=19905), which could be cheaper options. 
+The Oxford Pear Tree Park-and-Ride is a 10-15 minute non-stop bus ride and has a [Travelodge](https://www.tripadvisor.co.uk/Hotel_Review-g186361-d1027077-Reviews-Travelodge_Oxford_Peartree_Hotel-Oxford_Oxfordshire_England.html) and a [Holiday Inn](https://www.tripadvisor.co.uk/Hotel_Review-g186361-d226318-Reviews-Holiday_Inn_Oxford_an_IHG_Hotel-Oxford_Oxfordshire_England.html?m=19905), which could be cheaper options. You could look at other bus routes too (see [location](#location-and-getting-there)). 
 
  Please fill in [this form](https://forms.gle/jGCWfjG6N2QGM8vPA) if you would like to be notified if and when university accommodation becomes available. I am told that some university accommodation is likely to become available later in May once the undergraduate students decide when they are leaving. Please note nothing is guaranteed by filling in this form.
 
