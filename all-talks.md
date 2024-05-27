@@ -55,6 +55,7 @@ Jump to [ACT contributed talks](#act-contributed-talks) or [MFPS contributed tal
 * A Convenient Topological Setting for Higher-Order Probability Theory &mdash; <i>Benedikt Peterseim</i>
 * The Grothendieck construction for delta lenses. &mdash; <i>Bryce Clarke</i>
 * The Aldous-Hoover Theorem in Categorical Probability &mdash; <i>Leihao Chen, Tobias Fritz, Tomáš Gonda, Andreas Klingler, Antonio Lorenzin</i>
+* A Category Theoretic Approach to Approximate Game Theory &mdash; <i>Neil Ghani</i>
 * Copy-composition for probabilistic graphical models &mdash; <i>Toby St Clere Smithe</i>
 * Combs, Causality and Contractions in Atomic Markov Categories &mdash; <i>Dario Maximilian Stein, Márk Széles</i>
 * Representing Knowledge and Querying Data using Double-Functorial Semantics &mdash; <i>Michael Lambert, Evan Patterson</i>
