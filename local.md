@@ -18,7 +18,7 @@ Early registration fees:
 
 Registration does not include any meals or accommodation.
 
-There is an option during registration for an MFPS dinner. This is an option open to all during registration. (For example, if you are giving a talk at ACT but would like to be part of the MFPS dinner then you are very welcome to sign up for it.) We are planning it for Wednesday 19 June after the session in memory of Phil Scott. We may need to close the MFPS dinner registration well in advance of the conference so please sign up earlier if you would like to come.
+There is an option during registration for an MFPS dinner. This is an option open to all during registration. (For example, if you are giving a talk at ACT but would like to be part of the MFPS dinner then you are very welcome to sign up for it, and equally so if you are registering to attend the conferences but not to give a talk.) We are planning it for Wednesday 19 June after the session in memory of Phil Scott. We may need to close the MFPS dinner registration well in advance of the conference so please sign up earlier if you would like to come.
 
  The conference is planned mainly as an in-person event and the registration here is on that basis. Nonetheless we are hoping to stream the talks, and there will be a separate registration route for that nearer the time. If you are hoping to present a talk remotely, please contact the programme chairs. 
 
