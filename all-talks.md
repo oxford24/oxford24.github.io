@@ -23,11 +23,12 @@ characterisation of this class of topos. </details>
 
 ## Joint ACT &amp; MFPS special session in memory of Phil Scott
 
-* <details><summary><a href="https://www.uottawa.ca/faculty-science/professors/richard-blute">Rick Blute</a> (organizer) &mdash; <a><i>Proofs, Types and Hexagons</i></a></summary>
+* <details><summary><a href="https://www.uottawa.ca/faculty-science/professors/richard-blute">Rick Blute</a> (University of Ottawa, organizer) &mdash; <a><i>Proofs, Types and Hexagons</i></a></summary>
 Phil’s book with Jim Lambek “Introduction to Higher-Order Categorical Logic” is a seminal work in category theory. It cemented in the minds of many of us working in the field the idea that the best approach to studying logical systems was to form a category whose objects are formulas and arrows are proofs of entailments. Extensions of this idea are an obsession of the categorical logic community to this day.<br>One of the most interesting extensions involves representing formulas as multivariant functors and thus proofs become dinatural transformations, the hexagons of the title. The problem/challenge that arises is that these transformations need not compose.  This has led to a great deal of interesting category theory, much of which Phil contributed to. I’ll review some of these results, especially those relating to linear logic.</details>
 * [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/)
 * [Robin Cockett](http://pages.cpsc.ucalgary.ca/~robin/)
-* <details><summary><a href="https://researchportal.hw.ac.uk/en/persons/mark-lawson">Mark Lawson</a> (organizer) &mdash; <a><i>Co-ordinatizing an MV-algebra by a Boolean inverse monoid</i></a></summary>
+* <details><summary><a href="https://researchportal.hw.ac.uk/en/persons/mark-lawson">Mark Lawson</a> (Heriot-Watt University) &mdash; 
+<a><i>Co-ordinatizing an MV-algebra by a Boolean inverse monoid</i></a></summary>
 Both MV-algebras (which arise from multiple valued logic)
 and Boolean inverse monoids (which partake in a generalization of classical Stone duality)
 are generalizations of Boolean algebras.
@@ -48,7 +49,7 @@ foundations of probabilistic and statistical modelling. Types show
 clear promise in organising intricate models and the inference
 algorithms we use to fit them to data. I will present a type-rich and
 straightforward model, the quasi Borel space, and survey recent and
-ongoing developments in this area..</details>
+ongoing developments in this area.</details>
 * [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/) (INRIA Saclay & LIX, France)
 
 ## MFPS special session on the semantics of non-wellfounded and circular proofs
