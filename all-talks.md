@@ -7,7 +7,7 @@ layout: actmfps
 ## Joint ACT &amp; MFPS keynote
 
 <!-- [Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/) (University of Cambridge) &mdash; _Toposes of Finitely Supported M-Sets_-->
-* <details><summary><a href="https://www.cl.cam.ac.uk/~amp12/">Andrew Pitts</a> (University of Cambridge)&mdash; <a><i>Toposes of Finitely Supported M-Sets</i></a></summary>
+* <details><summary><a href="https://www.cl.cam.ac.uk/~amp12/">Andrew Pitts</a> (University of Cambridge) &mdash; <a><i>Toposes of Finitely Supported M-Sets</i></a></summary>
 For at least the last 25 years several toposes of finitely supported
 M-sets (for various monoids M) have played an important role in my
 work on logic and computer science, but in apparently unconnected
@@ -25,7 +25,7 @@ characterisation of this class of topos. </details>
 
 * <details><summary><a href="https://www.uottawa.ca/faculty-science/professors/richard-blute">Rick Blute</a> (organizer) &mdash; <a><i>Proofs, Types and Hexagons</i></a></summary>
 Phil’s book with Jim Lambek “Introduction to Higher-Order Categorical Logic” is a seminal work in category theory. It cemented in the minds of many of us working in the field the idea that the best approach to studying logical systems was to form a category whose objects are formulas and arrows are proofs of entailments. Extensions of this idea are an obsession of the categorical logic community to this day.
- 
+ <p>
 One of the most interesting extensions involves representing formulas as multivariant functors and thus proofs become dinatural transformations, the hexagons of the title. The problem/challenge that arises is that these transformations need not compose.  This has led to a great deal of interesting category theory, much of which Phil contributed to. I’ll review some of these results, especially those relating to linear logic.</details>
 
 * [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/)
