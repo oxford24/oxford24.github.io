@@ -7,7 +7,8 @@ layout: actmfps
 ## Joint ACT &amp; MFPS keynote
 
 <details>
-<summary>[Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/) (University of Cambridge) &mdash; _Toposes of Finitely Supported M-Sets_</summary>
+<!-- [Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/) (University of Cambridge) &mdash; _Toposes of Finitely Supported M-Sets_-->
+<summary><li><a href="https://www.cl.cam.ac.uk/~amp12/">Andrew Pitts</a> (University of Cambridge)&mdash; <i>Toposes of Finitely Supported M-Sets</i></li></summary>
 For at least the last 25 years several toposes of finitely supported
 M-sets (for various monoids M) have played an important role in my
 work on logic and computer science, but in apparently unconnected
