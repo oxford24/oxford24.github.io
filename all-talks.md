@@ -7,7 +7,7 @@ layout: actmfps
 ## Joint ACT &amp; MFPS keynote
 
 <!-- [Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/) (University of Cambridge) &mdash; _Toposes of Finitely Supported M-Sets_-->
-* <details> <summary><a href="https://www.cl.cam.ac.uk/~amp12/">Andrew Pitts</a> (University of Cambridge)&mdash; <i>Toposes of Finitely Supported M-Sets</i></summary>
+* <details><summary><a href="https://www.cl.cam.ac.uk/~amp12/">Andrew Pitts</a> (University of Cambridge)&mdash; <i>Toposes of Finitely Supported M-Sets</i></summary>
 For at least the last 25 years several toposes of finitely supported
 M-sets (for various monoids M) have played an important role in my
 work on logic and computer science, but in apparently unconnected
@@ -18,8 +18,8 @@ they have arisen for me, namely the mathematics of syntax involving
 binders and the semantics of univalent type theories. My hope is that
 you will also find them useful, or be able to tell me something about
 them that I don't know. For example, I do not know an abstract
-characterisation of this class of topos.
-</details>
+characterisation of this class of topos. </details>
+
 
 ## Joint ACT &amp; MFPS special session in memory of Phil Scott
 
