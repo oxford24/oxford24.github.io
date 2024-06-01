@@ -35,8 +35,7 @@ The question is: how are they related?
 Phil Scott and I proved that every countable MV-algebra can be co-ordinatized
 by a suitable Boolean inverse monoid (in a sense analogous to classical work by von Neumann).
 I shall assume no prior exposure to MV-algebras or Boolean inverse monoids
-in my talk.
-</details>
+in my talk.</details>
 
 (Phil's obituary in the [CMS Notes](https://notes.math.ca/en/article/in-memoriam-phil-scott-1947-2023/).)
 
