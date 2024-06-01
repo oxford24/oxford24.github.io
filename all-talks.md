@@ -6,9 +6,9 @@ layout: actmfps
 
 ## Joint ACT &amp; MFPS keynote
 
-* [Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/) (University of Cambridge) &mdash; _Toposes of Finitely Supported M-Sets_
-
-  _For at least the last 25 years several toposes of finitely supported
+<details>
+<summary>[Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/) (University of Cambridge) &mdash; _Toposes of Finitely Supported M-Sets_</summary>
+For at least the last 25 years several toposes of finitely supported
 M-sets (for various monoids M) have played an important role in my
 work on logic and computer science, but in apparently unconnected
 ways. I feel that this kind of topos is trying to get my attention. So
@@ -18,7 +18,8 @@ they have arisen for me, namely the mathematics of syntax involving
 binders and the semantics of univalent type theories. My hope is that
 you will also find them useful, or be able to tell me something about
 them that I don't know. For example, I do not know an abstract
-characterisation of this class of topos._
+characterisation of this class of topos.
+</details>
 
 ## Joint ACT &amp; MFPS special session in memory of Phil Scott
 
@@ -97,7 +98,7 @@ Jump to [ACT contributed talks](#act-contributed-talks) or [MFPS contributed tal
 * A Fully Compositional Theory of Sequential Digital Circuits &mdash; <i>George Kaye</i>
 * Higher-Order DisCoCat (Peirce-Lambek-Montague semantics) &mdash; <i>Alexis Toumi, Giovanni de Felice </i>
 * Disconnection Rules are Complete for Chemical Reactions &mdash; <i>Leo Lobski, Fabio Zanasi, Ella Melissa Gale </i>
-* Towards Compositional Interpretability &mdash; <i>Sean Tull, Robin Lorenz, Stephen Clark </i>
+x* Towards Compositional Interpretability &mdash; <i>Sean Tull, Robin Lorenz, Stephen Clark </i>
 
 ### MFPS contributed talks
 
