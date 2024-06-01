@@ -14,7 +14,7 @@ Early registration fees:
 * Wed-Fri:  £110 
 * MFPS dinner: £50
 
-**Early registration closes ~~31 May 2024~~ 3 June 2024 UK time**. Deadline extended due to earlier admin delays. 
+**Early registration closes ~~31 May 2024~~ 3 June 2024 UK time**. (Deadline extended due to earlier admin delays.)
 
 Registration does not include any meals or accommodation.
 
