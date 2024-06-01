@@ -25,10 +25,18 @@ characterisation of this class of topos. </details>
 
 * <details><summary><a href="https://www.uottawa.ca/faculty-science/professors/richard-blute">Rick Blute</a> (organizer) &mdash; <a><i>Proofs, Types and Hexagons</i></a></summary>
 Phil’s book with Jim Lambek “Introduction to Higher-Order Categorical Logic” is a seminal work in category theory. It cemented in the minds of many of us working in the field the idea that the best approach to studying logical systems was to form a category whose objects are formulas and arrows are proofs of entailments. Extensions of this idea are an obsession of the categorical logic community to this day.<br>One of the most interesting extensions involves representing formulas as multivariant functors and thus proofs become dinatural transformations, the hexagons of the title. The problem/challenge that arises is that these transformations need not compose.  This has led to a great deal of interesting category theory, much of which Phil contributed to. I’ll review some of these results, especially those relating to linear logic.</details>
-
 * [Samson Abramsky](https://www.cs.ox.ac.uk/people/samson.abramsky/)
 * [Robin Cockett](http://pages.cpsc.ucalgary.ca/~robin/)
-* [Mark Lawson](https://researchportal.hw.ac.uk/en/persons/mark-lawson)
+* <details><summary><a href="https://researchportal.hw.ac.uk/en/persons/mark-lawson">Mark Lawson</a> (organizer) &mdash; <a><i>Co-ordinatizing an MV-algebra by a Boolean inverse monoid</i></a></summary>
+Both MV-algebras (which arise from multiple valued logic)
+and Boolean inverse monoids (which partake in a generalization of classical Stone duality)
+are generalizations of Boolean algebras.
+The question is: how are they related?
+Phil Scott and I proved that every countable MV-algebra can be co-ordinatized
+by a suitable Boolean inverse monoid (in a sense analogous to classical work by von Neumann).
+I shall assume no prior exposure to MV-algebras or Boolean inverse monoids
+in my talk.
+</details>
 
 (Phil's obituary in the [CMS Notes](https://notes.math.ca/en/article/in-memoriam-phil-scott-1947-2023/).)
 
