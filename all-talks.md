@@ -27,7 +27,10 @@ characterisation of this class of topos. </details>
 Phil’s book with Jim Lambek “Introduction to Higher-Order Categorical Logic” is a seminal work in category theory. It cemented in the minds of many of us working in the field the idea that the best approach to studying logical systems was to form a category whose objects are formulas and arrows are proofs of entailments. Extensions of this idea are an obsession of the categorical logic community to this day.<br>One of the most interesting extensions involves representing formulas as multivariant functors and thus proofs become dinatural transformations, the hexagons of the title. The problem/challenge that arises is that these transformations need not compose.  This has led to a great deal of interesting category theory, much of which Phil contributed to. I’ll review some of these results, especially those relating to linear logic.</details>
 * <details><summary><a href="https://www.cs.ox.ac.uk/people/samson.abramsky/">Samson Abramsky</a> (University of Oxford) &mdash; <a><i>Retracing GoI with Phil</i></a></summary>
 I will describe  my collaboration with Phil Scott and Esfandiar Haghverdi on categorical semantics of Geometry of Interaction. I will say something about the context of this work, and where it led.</details>
-* [Robin Cockett](http://pages.cpsc.ucalgary.ca/~robin/)
+* <details><summary><a href="http://pages.cpsc.ucalgary.ca/~robin/">Robin Cockett</a> (University of Calgary) &mdash; <a><i>Phil Scott and Occam's Razor</i></a></summary>
+.In Phil's book with Lambek the authors confess they have ​"axes to grind".  One of these
+is "We decry over zealous application of  Occam's razor."
+Despite this, the book deploys Occam's razor to good effect in order to describe how models of the untyped lambda calculus can be derived.  The talk traces these ideas forward leading into how they influenced the speaker's work. </details>
 * <details><summary><a href="https://researchportal.hw.ac.uk/en/persons/mark-lawson">Mark Lawson</a> (Heriot-Watt University) &mdash; 
 <a><i>Co-ordinatizing an MV-algebra by a Boolean inverse monoid</i></a></summary>
 Both MV-algebras (which arise from multiple valued logic)
