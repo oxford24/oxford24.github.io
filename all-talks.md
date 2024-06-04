@@ -23,7 +23,9 @@ characterisation of this class of topos. </details>
 
 ## Joint ACT &amp; MFPS special session in memory of Phil Scott
 
-* <details><summary><a href="https://www.uottawa.ca/faculty-science/professors/richard-blute">Rick Blute</a> (University of Ottawa, organizer) &mdash; <a><i>Proofs, Types and Hexagons</i></a></summary>
+Organiser: [Rick Blute](https://www.uottawa.ca/faculty-science/professors/richard-blute) (University of Ottawa). Chair: Andrew Pitts.
+
+* <details><summary><a href="https://www.uottawa.ca/faculty-science/professors/richard-blute">Rick Blute</a> (University of Ottawa) &mdash; <a><i>Proofs, Types and Hexagons</i></a></summary>
 Phil’s book with Jim Lambek “Introduction to Higher-Order Categorical Logic” is a seminal work in category theory. It cemented in the minds of many of us working in the field the idea that the best approach to studying logical systems was to form a category whose objects are formulas and arrows are proofs of entailments. Extensions of this idea are an obsession of the categorical logic community to this day.<br>One of the most interesting extensions involves representing formulas as multivariant functors and thus proofs become dinatural transformations, the hexagons of the title. The problem/challenge that arises is that these transformations need not compose.  This has led to a great deal of interesting category theory, much of which Phil contributed to. I’ll review some of these results, especially those relating to linear logic.</details>
 * <details><summary><a href="https://www.cs.ox.ac.uk/people/samson.abramsky/">Samson Abramsky</a> (University of Oxford) &mdash; <a><i>Retracing GoI with Phil</i></a></summary>
 I will describe  my collaboration with Phil Scott and Esfandiar Haghverdi on categorical semantics of Geometry of Interaction. I will say something about the context of this work, and where it led.</details>
@@ -58,7 +60,7 @@ ongoing developments in this area.</details>
 
 ## MFPS special session on the semantics of non-wellfounded and circular proofs
 
-Organisers: [Anupam Das](https://www.anupamdas.com) and [Abhishek De](https://sites.google.com/view/abhishekde) (University of Birmingham).
+Organisers: [Anupam Das](https://www.anupamdas.com) and [Abhishek De](https://sites.google.com/view/abhishekde) (University of Birmingham). Chair: Abishek De.
 
 * <details><summary><a href="https://sites.google.com/site/farzadjafarrahmani/home">Farzad Jafarrahmani</a> (LMCRC, Huawei) &mdash; <a><i>Focused orthogonality as denotations of circular and non-wellfounded proofs</i></a></summary>
 This talk investigates the question of denotational invariants of non-wellfounded and circular proofs of the linear logic with least and greatest fixpoints. While non-wellfounded and circular proof theory has made significant progress in the last twenty years, the corresponding denotational semantics is still underdeveloped. First, we explore a theory of fixpoint constructions in focused orthogonality categories and present a lifting theorem for initial algebras and final coalgebras. These constructions crucially hinge on the insight that focused orthogonality categories are relational fibrations. We then demonstrate that assuming a CPO structure on our category allows the focused orthogonality construction to provide a model for non-wellfounded proofs. Several properties of the semantics will be discussed, including its soundness, the relationship between totality (orthogonality) and validity, and the semantic content involved in translating finitary proofs to circular proofs. Finally, the talk focuses on circular proofs, aiming to leverage their regularity to define the interpretation function inductively. We argue why the usual validity condition is too general for this purpose, while a fragment of circular proofs—strongly valid proofs—constitutes a well-behaved class for such an inductive interpretation.</details>
