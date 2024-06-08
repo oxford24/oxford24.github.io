@@ -2,7 +2,7 @@
 layout: actmfps
 ---
 
-# ACT &amp; MFPS Organizers
+# ACT &amp; MFPS Organizers 2024
 
 ## Local organizers
 
