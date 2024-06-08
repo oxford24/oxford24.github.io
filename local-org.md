@@ -6,7 +6,7 @@ layout: actmfps
 
 ## Local organizers
 
-* Sam Staton
+* [Sam Staton](https://www.cs.ox.ac.uk/people/samuel.staton/main.html)
 * Lara Hartley
 * TBC
 
