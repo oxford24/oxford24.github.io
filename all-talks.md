@@ -126,7 +126,7 @@ Jump to [ACT contributed talks](#act-contributed-talks) or [MFPS contributed tal
 * A Fully Compositional Theory of Sequential Digital Circuits &mdash; <i>George Kaye</i>
 * Higher-Order DisCoCat (Peirce-Lambek-Montague semantics) &mdash; <i>Alexis Toumi, Giovanni de Felice </i>
 * Disconnection Rules are Complete for Chemical Reactions &mdash; <i>Leo Lobski, Fabio Zanasi, Ella Melissa Gale </i>
-x* Towards Compositional Interpretability &mdash; <i>Sean Tull, Robin Lorenz, Stephen Clark </i>
+* Towards Compositional Interpretability &mdash; <i>Sean Tull, Robin Lorenz, Stephen Clark </i>
 
 ### MFPS contributed talks
 
