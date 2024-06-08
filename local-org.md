@@ -18,7 +18,7 @@ layout: actmfps
 ## MFPS Programme Chairs
 * Valeria de Paiva
 * Alex Simpson
-* See [Call for Papers](act_mfps.html) for full programme committee.
+* See [Call for Papers](mfps_cfp.html) for full programme committee.
 
 ## ACT Steering Committee
 * David Spivak, John Baez, Bob Coecke, Dorette Pronk, Simona Paoli.
