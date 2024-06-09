@@ -7,21 +7,21 @@ layout: actmfps
 ## Local organizers
 
 * [Sam Staton](https://www.cs.ox.ac.uk/people/samuel.staton/main.html)
-* Lara Hartley
+* [Lara Hartley](https://www.cs.ox.ac.uk/people/lara.hartley/)
 * TBC
 
 ## ACT Programme Chairs
-* David Jaz Myers
-* Michael Johnson
+* [David Jaz Myers](http://davidjaz.com/)
+* [Michael Johnson](http://web.science.mq.edu.au/~mike/)
 * See [Call for Papers](act_cfp.html) for full programme committee.
 
 ## MFPS Programme Chairs
-* Valeria de Paiva
-* Alex Simpson
+* [Valeria de Paiva](https://vcvpaiva.github.io/)
+* [Alex Simpson](https://www.fmf.uni-lj.si/en/directory/212/simpson-alexander-keith/)
 * See [Call for Papers](mfps_cfp.html) for full programme committee.
 
 ## ACT Steering Committee
-* David Spivak, John Baez, Bob Coecke, Dorette Pronk, Simona Paoli.
+* David Spivak, John Baez, Bob Coecke, Simona Paoli, Dorette Pronk. See [Applied Category Theory website](https://www.appliedcategorytheory.org/) for more info.
 
 ## MFPS Organizing Committee
 * See [MFPS page](https://mfpsconf.org/?page_id=5).
