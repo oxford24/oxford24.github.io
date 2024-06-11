@@ -49,6 +49,7 @@ in my talk.</details>
 ## MFPS invited speakers
 
 * [Philippa Gardner](http://www.doc.ic.ac.uk/~pg/) (Imperial College, London, UK)
+* [Bob Atkey](https://bentnib.org) (University of Strathclyde)
 * <details><summary><a href="https://denotational.co.uk">Ohad Kammar</a> (University of Edinburgh) &mdash; <a><i>Semantic foundations for type-driven probabilistic modelling</i></a></summary>
 The last few years have seen several breakthroughs in the semantic
 foundations of probabilistic and statistical modelling. Types show
@@ -56,7 +57,6 @@ clear promise in organising intricate models and the inference
 algorithms we use to fit them to data. I will present a type-rich and
 straightforward model, the quasi Borel space, and survey recent and
 ongoing developments in this area.</details>
-* [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/) (INRIA Saclay & LIX, France)
 
 ## MFPS special session on the semantics of non-wellfounded and circular proofs
 
