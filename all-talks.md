@@ -78,55 +78,60 @@ Jump to [ACT contributed talks](#act-contributed-talks) or [MFPS contributed tal
 
 ### ACT contributed talks
 
-* Convergence of martingales via enriched dagger categories. &mdash; <i>Paolo Perrone, Ruben Van Belle</i>
-* Organizing physics with open energy-driven systems &mdash; <i>Owen Lynch, David Spivak, Matteo Capucci</i>
-* Effectful streams &mdash; <i>Filippo Bonchi, Elena Di Lavore, Mario Román</i>
-* A Convenient Topological Setting for Higher-Order Probability Theory &mdash; <i>Benedikt Peterseim</i>
-* The Grothendieck construction for delta lenses. &mdash; <i>Bryce Clarke</i>
-* The Aldous-Hoover Theorem in Categorical Probability &mdash; <i>Leihao Chen, Tobias Fritz, Tomáš Gonda, Andreas Klingler, Antonio Lorenzin</i>
-* A Category Theoretic Approach to Approximate Game Theory &mdash; <i>Neil Ghani</i>
-* Copy-composition for probabilistic graphical models &mdash; <i>Toby St Clere Smithe</i>
-* Combs, Causality and Contractions in Atomic Markov Categories &mdash; <i>Dario Maximilian Stein, Márk Széles</i>
-* Representing Knowledge and Querying Data using Double-Functorial Semantics &mdash; <i>Michael Lambert, Evan Patterson</i>
-* Partial and Relational Algebraic Theories &mdash; <i>Chad Nester</i>
-* Fibrational perspectives on determinization of finite-state automata &mdash; <i>Thea Li</i>
-* Proqueries and Praqueries &mdash; <i>Gabriel Goren Roig, Joshua Meyers, Emilio Minichiello, Ryan Wisnesky</i>
-* Presenting Profunctors &mdash; <i>Gabriel Goren Roig, Joshua Meyers, Emilio Minichiello</i>
-* Pattern runs on matter: The free monad monad as a module over the cofree comonad comonad &mdash; <i>Sophie Libkind, David Spivak </i>
-* Compositional statistical mechanics, entropy and variational free energy &mdash; <i>Grégoire Sergeant-Perthuis</i>
-* ModelCollab: Software for Compositional Modeling &mdash; <i>John Carlos Baez, Xiaoyan Li, Nathaniel D. Osgood </i>
-* ViCAR: Visualizing Categories with Automated Rewriting in Coq &mdash; <i>Bhakti Shah, William Spencer, Laura Zielinski, Ben Caldwell, Adrian Lehmann, Robert Rand </i>
-* Towards a Unified Theory of Time-Varying Data &mdash; <i>Benjamin Merlin Bumpus, James Fairbanks, Martti Karvonen, Wilmer Leal, Frédéric Simard </i>
-* Inference on poset-shaped diagrams in the category of Markov kernels &mdash; <i>Grégoire Sergeant-Perthuis, Nils Ruet </i>
-* Categorical Decision Theory &mdash; <i>Marcus Pivato</i>
-* How Nice is this Functor? Two Squares and Some Homology go a Long Way &mdash; <i>Benjamin Merlin Bumpus, Daniel Rosiak, Caterina Puca, Fabrizio Romano Genovese, James Fairbanks </i>
-* Expansion of the (category) theory of metric spaces and fuzzy simplicial sets and their applications to data analysis &mdash; <i>Lukas Barth, Jürgen Jost, Thomas Jan Mikhail, Janis Keck, Parvaneh Joharinad, Fatemeh Hannaneh Fahimi Sheyjani </i>
-* Homotopical characterization of strong contextuality &mdash; <i>Aziz Kharoof, Cihan Okay</i>
-* Categorified Path Calculus &mdash; <i>Simon Burton</i>
-* Monoidal Streams and Probabilistic Dataflow with DisCoPy &mdash; <i>Alexis Toumi, Richie Yeung, Boldizsár Poór, Giovanni de Felice</i>
-* Equivariant stochastic neural networks in Markov categories &mdash; <i>Rob Cornish</i>
-* Generalized Gradient Descent is a Hypergraph Functor &mdash; <i>Tyler E Hanks, Matthew Klawonn, James Fairbanks  </i>
-* Catgrad: A Categorical Compiler for Deep Learning &mdash; <i>Paul W Wilson</i>
-* No-go theorems: Polynomial comonads that do not distribute over distribution monads &mdash; <i>Nihil Shah, Amin Karamlou </i>
-* High schoolers excel at Oxford post-graduate quantum exam: experimental evidence in support of quantum picturalism. &mdash; <i>Bob Coecke, Aleks Kissinger, Stefano Gogioso, Selma Dundar-Coecke, Caterina Puca, Lia Yeh, Muhammad Hamza Waseem, Vincent Wang-Mascianica, Sieglinde Pfaendler, Thomas Cervoni, Ferdi Tomassini, Vincent Anandraj, Peter Sigrist</i>
-* Graphical Symplectic Algebra &mdash; <i>Robert I Booth, Titouan Carette, Cole Comfort</i>
-* Complete equational theories for classical and quantum Gaussian relations &mdash; <i>Robert I Booth, Titouan Carette, Cole Comfort</i>
-* A Profunctorial Semantics for Quantum Supermaps &mdash; <i>James Hefford, Matt Wilson</i>
-* A Coalgebraic Model of Quantum Bisimulation &mdash; <i>Lorenzo Ceragioli, Elena Di Lavore, Giuseppe Lomurno, Gabriele Tedeschi</i>
-* Completeness of graphical languages for finite dimensional Hilbert spaces &mdash; <i>Razin A. Shaikh, Boldizsár Poór, Quanlong Wang </i>
-* An operadic approach to convexity &mdash; <i>Redi Haderi</i>
-* Universal recursive preference structures &mdash; <i>Marcus Pivato</i>
-* Partial Combinatory Algebras for Intensional Type Theory &mdash; <i>Sam Speight </i>
-* Abstract Kleisli structures on 2-categories &mdash; <i>Adrian Miranda</i>
-* Learners are Almost Free Compact Closed &mdash; <i>Mitchell Riley</i>
-* Monoidal Optics are Universal &mdash; <i>Matt Earnshaw, James Hefford, Mario Román </i>
-* Reinforcement Learning in Categorical Cybernetics &mdash; <i>Jules Hedges, Riu Rodriguez Sakamoto </i>
-* Reverse Faà di Bruno's Formula &mdash; <i>JS Pacaud Lemay, Aaron Biggin </i>
-* A Compositional Framework for First-Order Optimization &mdash; <i>Tyler E Hanks, Matthew Klawonn, Matthew Hale, Evan Patterson, James Fairbanks </i>
-* A Fully Compositional Theory of Sequential Digital Circuits &mdash; <i>George Kaye</i>
-* Higher-Order DisCoCat (Peirce-Lambek-Montague semantics) &mdash; <i>Alexis Toumi, Giovanni de Felice </i>
-* Disconnection Rules are Complete for Chemical Reactions &mdash; <i>Leo Lobski, Fabio Zanasi, Ella Melissa Gale </i>
-* Towards Compositional Interpretability &mdash; <i>Sean Tull, Robin Lorenz, Stephen Clark </i>
+* Convergence of martingales via enriched dagger categories &mdash; <i>Paolo Perrone, Ruben Van Belle</i> [<a href='https://oxford24.github.io/assets/act-papers/27_convergence_of_martingales_via.pdf'>pdf</a>]</li>
+* The Aldous-Hoover Theorem in Categorical Probability &mdash; <i>Leihao Chen, Tobias Fritz, Tomáš Gonda, Andreas Klingler, Antonio Lorenzin</i> [<a href='https://oxford24.github.io/assets/act-papers/34_the_aldous_hoover_theorem_in_c.pdf'>pdf</a>]</li>
+* A Category Theoretic Approach to Approximate Game Theory &mdash; <i>Neil Ghani</i> [<a href='https://oxford24.github.io/assets/act-papers/62_a_category_theoretic_approach_.pdf'>pdf</a>]</li>
+* Copy-composition for probabilistic graphical models &mdash; <i>Toby St Clere Smithe</i> [<a href='https://oxford24.github.io/assets/act-papers/35_copy_composition_for_probabili.pdf'>pdf</a>]</li>
+* Combs, Causality and Contractions in Atomic Markov Categories &mdash; <i>Dario Maximilian Stein, Márk Széles</i> [<a href='https://oxford24.github.io/assets/act-papers/47_combs_causality_and_contractio.pdf'>pdf</a>]</li>
+* Representing Knowledge and Querying Data using Double-Functorial Semantics &mdash; <i>Michael Lambert, Evan Patterson</i> [<a href='https://oxford24.github.io/assets/act-papers/22_representing_knowledge_and_que.pdf'>pdf</a>]</li>
+* Partial and Relational Algebraic Theories &mdash; <i>Chad Nester</i> [<a href='https://oxford24.github.io/assets/act-papers/26_partial_and_relational_algebra.pdf'>pdf</a>]</li>
+* Fibrational perspectives on determinization of finite- state automata &mdash; <i>Thea Li</i> [<a href='https://oxford24.github.io/assets/act-papers/36_fibrational_perspectives_on_de.pdf'>pdf</a>]</li>
+* Proqueries and Praqueries &mdash; <i>Gabriel Goren Roig, Joshua Meyers, Emilio Minichiello, Ryan Wisnesky</i> [<a href='https://oxford24.github.io/assets/act-papers/42_proqueries_and_praqueries.pdf'>pdf</a>]</li>
+* Presenting Profunctors &mdash; <i>Gabriel Goren Roig, Joshua Meyers, Emilio Minichiello</i> [<a href='https://oxford24.github.io/assets/act-papers/38_presenting_profunctors.pdf'>pdf</a>]</li>
+* Pattern runs on matter: The free monad monad as a module over the cofree comonad comonad &mdash; <i>Sophie Libkind, David Spivak</i> [<a href='https://oxford24.github.io/assets/act-papers/63_pattern_runs_on_matter_the_fre.pdf'>pdf</a>]</li>
+* Organizing physics with open energy-driven systems &mdash; <i>Owen Lynch, David Spivak, Matteo Capucci</i> [<a href='https://oxford24.github.io/assets/act-papers/57_organizing_physics_with_open_e.pdf'>pdf</a>]</li>
+* Compositional statistical mechanics, entropy and variational free energy &mdash; <i>Grégoire Sergeant-Perthuis</i> [<a href='https://oxford24.github.io/assets/act-papers/14_compositional_statistical_mech.pdf'>pdf</a>]</li>
+* ModelCollab: Software for Compositional Modeling &mdash; <i>John Carlos Baez, Xiaoyan Li, Nathaniel D. Osgood</i> [<a href='https://oxford24.github.io/assets/act-papers/60_modelcollab_software_for_compo.pdf'>pdf</a>]</li>
+* ViCAR: Visualizing Categories with Automated Rewriting in Coq &mdash; <i>Bhakti Shah, William Spencer, Laura Zielinski, Ben Caldwell, Adrian Lehmann, Robert Rand</i> [<a href='https://oxford24.github.io/assets/act-papers/55_vicar_visualizing_categories_w.pdf'>pdf</a>]</li>
+* Towards a Unified Theory of Time-Varying Data &mdash; <i>Benjamin Merlin Bumpus, James Fairbanks, Martti Karvonen, Wilmer Leal, Frédéric Simard</i> [<a href='https://oxford24.github.io/assets/act-papers/67_towards_a_unified_theory_of_ti.pdf'>pdf</a>]</li>
+
+* Inference on poset-shaped diagrams in the category of Markov kernels &mdash; <i>Grégoire Sergeant-Perthuis, Nils Ruet</i> [<a href='https://oxford24.github.io/assets/act-papers/17_inference_on_poset_shaped_diag.pdf'>pdf</a>]</li>
+* Categorical Decision Theory &mdash; <i>Marcus Pivato</i> [<a href='https://oxford24.github.io/assets/act-papers/12_categorical_decision_theory.pdf'>pdf</a>]</li>
+* How Nice is this Functor? Two Squares and Some Homology go a Long Way &mdash; <i>Benjamin Merlin Bumpus, Daniel Rosiak, Caterina Puca, Fabrizio Romano Genovese, James Fairbanks</i> [<a href='https://oxford24.github.io/assets/act-papers/20_how_nice_is_this_functor_two_s.pdf'>pdf</a>]</li>
+* Expansion of the (category) theory of metric spaces and fuzzy simplicial sets and their applications to data analysis &mdash; <i>Lukas Barth, Jürgen Jost, Thomas Jan Mikhail, Janis Keck, Parvaneh Joharinad, Fatemeh Hannaneh Fahimi Sheyjani</i> [<a href='https://oxford24.github.io/assets/act-papers/54_talk_proposal_expansion_of_the.pdf'>pdf</a>]</li>
+* Homotopical characterization of strong contextuality &mdash; <i>Aziz Kharoof, Cihan Okay</i> [<a href='https://oxford24.github.io/assets/act-papers/77_homotopical_characterization_o-2.pdf'>pdf</a>]</li>
+* Categorified Path Calculus &mdash; <i>Simon Burton</i> [<a href='https://oxford24.github.io/assets/act-papers/64_categorified_path_calculus.pdf'>pdf</a>]</li>
+* Effectful streams &mdash; <i>Filippo Bonchi, Elena Di Lavore, Mario Román</i> [<a href='https://oxford24.github.io/assets/act-papers/13_effectful_streams.pdf'>pdf</a>]</li>
+* Monoidal Streams and Probabilistic Dataflow with DisCoPy &mdash; <i>Alexis Toumi, Richie Yeung, Boldizsár Poór, Giovanni de Felice</i> [<a href='https://oxford24.github.io/assets/act-papers/46_monoidal_streams_and_probabili.pdf'>pdf</a>]</li>
+* Equivariant stochastic neural networks in Markov categories &mdash; <i>Rob Cornish</i> [<a href='https://oxford24.github.io/assets/act-papers/52_equivariant_stochastic_neural_.pdf'>pdf</a>]</li>
+* Generalized Gradient Descent is a Hypergraph Functor &mdash; <i>Tyler E Hanks, Matthew Klawonn, James Fairbanks</i> [<a href='https://oxford24.github.io/assets/act-papers/41_generalized_gradient_descent_i.pdf'>pdf</a>]</li>
+* CatGrad: A Categorical Compiler for Deep Learning &mdash; <i>Paul W Wilson</i> [<a href='https://oxford24.github.io/assets/act-papers/65__textsc_catgrad_a_categorical_.pdf'>pdf</a>]</li>
+* A Convenient Topological Setting for Higher-Order Probability Theory &mdash; <i>Benedikt Peterseim</i> [<a href='https://oxford24.github.io/assets/act-papers/07_a_convenient_topological_setti.pdf'>pdf</a>]</li>
+* No-go theorems: Polynomial comonads that do not distribute over distribution monads &mdash; <i>Nihil Shah, Amin Karamlou</i> [<a href='https://oxford24.github.io/assets/act-papers/37_no_go_theorems_polynomial_como.pdf'>pdf</a>]</li>
+* High schoolers excel at Oxford post-graduate quantum exam: experimental evidence in support of quantum picturalism &mdash; <i>Bob Coecke, Aleks Kissinger, Stefano Gogioso, Selma Dundar- Coecke, Caterina Puca, Lia Yeh, Muhammad Hamza Waseem, Vincent Wang-Mascianica, Sieglinde Pfaendler, Thomas Cervoni, Ferdi Tomassini, Vincent Anandraj, Peter Sigrist</i> [<a href='https://oxford24.github.io/assets/act-papers/49_high_schoolers_excel_at_oxford.pdf'>pdf</a>]</li>
+* Graphical Symplectic Algebra &mdash; <i>Robert I Booth, Titouan Carette, Cole Comfort</i> [<a href='https://oxford24.github.io/assets/act-papers/28_extended_abstract_graphical_sy.pdf'>pdf</a>]</li>
+* Complete equational theories for classical and quantum Gaussian relations &mdash; <i>Robert I Booth, Titouan Carette, Cole Comfort</i> [<a href='https://oxford24.github.io/assets/act-papers/29_extended_abstract_complete_equ.pdf'>pdf</a>]</li>
+
+
+* A Profunctorial Semantics for Quantum Supermaps &mdash; <i>James Hefford, Matt Wilson</i> [<a href='https://oxford24.github.io/assets/act-papers/18_a_profunctorial_semantics_for_.pdf'>pdf</a>]</li>
+* A Coalgebraic Model of Quantum Bisimulation &mdash; <i>Lorenzo Ceragioli, Elena Di Lavore, Giuseppe Lomurno, Gabriele Tedeschi</i> [<a href='https://oxford24.github.io/assets/act-papers/78_a_coalgebraic_model_of_quantum.pdf'>pdf</a>]</li>
+* Completeness of graphical languages for finite dimensional Hilbert spaces &mdash; <i>Razin A. Shaikh, Boldizsár Poór, Quanlong Wang</i> [<a href='https://oxford24.github.io/assets/act-papers/71_completeness_of_graphical_lang.pdf'>pdf</a>]</li>
+* An operadic approach to convexity &mdash; <i>Redi Haderi</i> [<a href='https://oxford24.github.io/assets/act-papers/15_an_operadic_approach_to_convex.pdf'>pdf</a>]</li>
+* Universal recursive preference structures &mdash; <i>Marcus Pivato</i> [<a href='https://oxford24.github.io/assets/act-papers/10_universal_recursive_preference-1.pdf'>pdf</a>]</li>
+* Partial Combinatory Algebras for Intensional Type Theory &mdash; <i>Sam Speight</i> [<a href='https://oxford24.github.io/assets/act-papers/04_partial_combinatory_algebras_f.pdf'>pdf</a>]</li>
+
+* The Grothendieck construction for delta lenses &mdash; <i>Bryce Clarke</i> [<a href='https://oxford24.github.io/assets/act-papers/40_the_grothendieck_construction_.pdf'>pdf</a>]</li>
+* Abstract Kleisli structures on 2-categories &mdash; <i>Adrian Miranda</i> [<a href='https://oxford24.github.io/assets/act-papers/16_abstract_kleisli_structures_on.pdf'>pdf</a>]</li>
+* Learners are Almost Free Compact Closed &mdash; <i>Mitchell Riley</i> [<a href='https://oxford24.github.io/assets/act-papers/39_learners_are_almost_free_compa.pdf'>pdf</a>]</li>
+* Monoidal Optics are Universal &mdash; <i>Matt Earnshaw, James Hefford, Mario Román</i> [<a href='https://oxford24.github.io/assets/act-papers/11_monoidal_optics_are_universal-1.pdf'>pdf</a>]</li>
+* Reinforcement Learning in Categorical Cybernetics &mdash; <i>Jules Hedges, Riu Rodriguez Sakamoto</i> [<a href='https://oxford24.github.io/assets/act-papers/19_reinforcement_learning_in_cate.pdf'>pdf</a>]</li>
+* Reverse Faà di Bruno's Formula &mdash; <i>JS Pacaud Lemay, Aaron Biggin</i> [<a href='https://oxford24.github.io/assets/act-papers/01_reverse_fa_di_bruno_s_formula-2.pdf'>pdf</a>]</li>
+* A Compositional Framework for First-Order Optimization &mdash; <i>Tyler E Hanks, Matthew Klawonn, Matthew Hale, Evan Patterson, James Fairbanks</i> [<a href='https://oxford24.github.io/assets/act-papers/56_a_compositional_framework_for_.pdf'>pdf</a>]</li>
+* A Fully Compositional Theory of Sequential Digital Circuits &mdash; <i>George Kaye</i> [<a href='https://oxford24.github.io/assets/act-papers/09_a_fully_compositional_theory_o.pdf'>pdf</a>]</li>
+* Higher-Order DisCoCat (Peirce-Lambek-Montague semantics) &mdash; <i>Alexis Toumi, Giovanni de Felice</i> [<a href='https://oxford24.github.io/assets/act-papers/45_higher_order_discocat_peirce_l.pdf'>pdf</a>]</li>
+* Disconnection Rules are Complete for Chemical Reactions &mdash; <i>Leo Lobski, Fabio Zanasi, Ella Melissa Gale</i> [<a href='https://oxford24.github.io/assets/act-papers/44_disconnection_rules_are_comple.pdf'>pdf</a>]</li>
+* Towards Compositionality for XAI &mdash; <i>Sean Tull, Robin Lorenz, Stephen Clark, Bob Coecke</i> [<a href='https://oxford24.github.io/assets/act-papers/31_towards_compositional_interpre.pdf'>pdf</a>]</li>
+
 
 ### MFPS contributed talks
 
