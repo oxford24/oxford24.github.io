@@ -54,7 +54,7 @@ There will be 4 invited speakers.
 
 * [Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/) (University of Cambridge Emeritus, joint ACT/MFPS plenary speaker)
 * [Philippa Gardner](http://www.doc.ic.ac.uk/~pg/) (Imperial College, London, UK)
-* [Bob Atkeyi](https://bentnib.org) (University of Strathclyde)
+* [Bob Atkey](https://bentnib.org) (University of Strathclyde)
 * [Ohad Kammar](https://denotational.co.uk) (University of Edinburgh, UK)
 
 

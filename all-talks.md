@@ -49,7 +49,7 @@ in my talk.</details>
 ## MFPS invited speakers
 
 * [Philippa Gardner](http://www.doc.ic.ac.uk/~pg/) (Imperial College, London, UK)
-* [Bob Atkeyi](https://bentnib.org) (University of Strathclyde)
+* [Bob Atkey](https://bentnib.org) (University of Strathclyde)
 * <details><summary><a href="https://denotational.co.uk">Ohad Kammar</a> (University of Edinburgh) &mdash; <a><i>Semantic foundations for type-driven probabilistic modelling</i></a></summary>
 The last few years have seen several breakthroughs in the semantic
 foundations of probabilistic and statistical modelling. Types show
