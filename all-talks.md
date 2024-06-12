@@ -134,6 +134,30 @@ Jump to [ACT contributed talks](#act-contributed-talks) or [MFPS contributed tal
 ### MFPS contributed talks
 
 
+* Inferentialist Resource Semantics &mdash; <i>Alexander Gheorghiu, Tao Gu and David Pym</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-14.pdf'>pdf</a>]
+* Amortized Analysis via Coalgebra &mdash; <i>Harrison Grodin and Robert Harper</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-12.pdf'>pdf</a>]
+* On Kleisli extensions and decorated trace semantics &mdash; <i>Daniel Luckhardt, Harsh Beohar and Sebastian Küpper</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-16.pdf'>pdf</a>]
+* Typed Non-determinism in Concurrent Calculi: The Eager Way &mdash; <i>Bas van den Heuvel, Daniele Nantes-Sobrinho, Joseph Paulus and Jorge A — Pérez</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-9.pdf'>pdf</a>]
+* Linear Arboreal Categories &mdash; <i>Samson Abramsky, Yoàv Montacute and Nihil Shah</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-6.pdf'>pdf</a>]
+* An Ultrametric for Cartesian Differential Categories for Taylor Series Convergence &mdash; <i>Jean-Simon Lemay</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-7.pdf'>pdf</a>]
+* On a fibrational construction for optics, lenses, and Dialectica categories &mdash; <i>Matteo Capucci, Bruno Gavranovic, Abdullah Malik, Francisco Rios and Jonathan Weinberger</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-36.pdf'>pdf</a>]
+* Implicit automata in λ-calculi III: affine planar string-to-string functions &mdash; <i>Cécilia Pradic and Ian Price</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-20.pdf'>pdf</a>]
+* The Functional Machine Calculus III: Choice (Early Announcement) &mdash; <i>Willem Heijltjes</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-17.pdf'>pdf</a>]
+* Parametricity via Cohesion &mdash; <i>C.B - Aberlé</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-34.pdf'>pdf</a>]
+* Relational parametricity in the presence of GADTs (Early Announcement) &mdash; <i>Pierre Cagne and Patricia Johann</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-35.pdf'>pdf</a>]
+* Compositional models for imprecise probability (Early Announcement) &mdash; <i>Jack Liell-Cock and Sam Staton</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-25.pdf'>pdf</a>]
+* A strong nominal semantics for fixed-point constraints &mdash; <i>Ali Khan Caires Ribeiro, Maribel Fernandez and Daniele Nantes-Sobrinho</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-26.pdf'>pdf</a>]
+* Continuous Domains for Function Spaces Using Spectral Compactification &mdash; <i>Amin Farjudian and Achim Jung</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-1.pdf'>pdf</a>]
+* Cost-sensitive computational adequacy of higher-order recursion in synthetic domain theory &mdash; <i>Yue Niu, Jonathan Sterling and Robert Harper</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-24.pdf'>pdf</a>]
+* Algebraic Reasoning over Relational Structures &mdash; <i>Jan Jurka, Stefan Milius and Henning Urbat</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-15.pdf'>pdf</a>]
+* GATlab: Modeling and Programming with Generalized Algebraic Theories &mdash; <i>Owen Lynch, Kris Brown, James Fairbanks and Evan Patterson</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-11.pdf'>pdf</a>]
+* Polynomials in homotopy type theory as a Kleisli category &mdash; <i>Elies Harington and Samuel Mimram</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-10.pdf'>pdf</a>]
+* CaTT contexts are finite computads &mdash; <i>Thibaut Benjamin, Ioannis Markakis and Chiara Sarti</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-8.pdf'>pdf</a>]
+* Two-dimensional Kripke Semantics II: Stability and Completeness &mdash; <i>Alex Kavvos</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-4.pdf'>pdf</a>]
+* A Semantic Proof of Generalised Cut Elimination for Deep Inference &mdash; <i>Robert Atkey and Wen Kokke</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-22.pdf'>pdf</a>]
+* Positive Focusing is Directly Useful &mdash; <i>Beniamino Accattoli and Jui-Hsuan Wu</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-27.pdf'>pdf</a>]
+
+<!--
 * Continuous Domains for Function Spaces Using Spectral Compactification &mdash; <i><a href="https://www.birmingham.ac.uk/schools/mathematics/people/navigation.aspx?ReferenceId=205075&amp;Name=dr-amin-farjudian">Amin Farjudian</a> and <a href="https://www.cs.bham.ac.uk/~axj/">Achim Jung</a></i>
 * Two-dimensional Kripke Semantics II: Stability and Completeness &mdash; <i>Alex Kavvos</i>
 * Linear Arboreal Categories &mdash; <i>Samson Abramsky, <a href="https://www.cl.cam.ac.uk/~ym374/">Yoàv Montacute</a> and <a href="http://www.cs.ox.ac.uk/people/nihil.shah/">Nihil Shah</a></i>
@@ -156,7 +180,7 @@ Jump to [ACT contributed talks](#act-contributed-talks) or [MFPS contributed tal
 * Parametricity via Cohesion &mdash; <i><a href="https://cbaberle.com">C.B - Aberlé</a></i>
 * Early Announcement: Relational parametricity in the presence of GADTs &mdash; <i><a href="https://www.normalesup.org/~cagne/index.html">Pierre Cagne</a> and <a href="http://cs.appstate.edu/johannp">Patricia Johann</a></i>
 * On a fibrational construction for optics, lenses, and Dialectica categories &mdash; 
-<i><a href="https://matteocapucci.wordpress.com">Matteo Capucci</a>, <a href="https://www.brunogavranovic.com/">Bruno Gavranovic</a>, <a href="https://abdullahnaeemmalik.github.io/">Abdullah Malik</a>, <a href="https://www.ornl.gov/staff-profile/francisco-r-rios">Francisco Rios</a> and <a href="https://sites.google.com/view/jonathanweinberger">Jonathan Weinberger</a></i>
+<i><a href="https://matteocapucci.wordpress.com">Matteo Capucci</a>, <a href="https://www.brunogavranovic.com/">Bruno Gavranovic</a>, <a href="https://abdullahnaeemmalik.github.io/">Abdullah Malik</a>, <a href="https://www.ornl.gov/staff-profile/francisco-r-rios">Francisco Rios</a> and <a href="https://sites.google.com/view/jonathanweinberger">Jonathan Weinberger</a></i>-->
 
 ## Additional sessions
 
