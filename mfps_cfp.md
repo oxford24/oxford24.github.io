@@ -50,12 +50,14 @@ It is planned to publish a journal special issue for selected papers from MFPS X
 
 ## INVITED SPEAKERS
 
-There will be 4 invited speakers.
+There will be 5 invited speakers.
 
-* [Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/) (University of Cambridge Emeritus, joint ACT/MFPS plenary speaker)
-* [Philippa Gardner](http://www.doc.ic.ac.uk/~pg/) (Imperial College, London, UK)
 * [Bob Atkey](https://bentnib.org) (University of Strathclyde)
+* [Philippa Gardner](http://www.doc.ic.ac.uk/~pg/) (Imperial College, London, UK)
 * [Ohad Kammar](https://denotational.co.uk) (University of Edinburgh, UK)
+* [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/) (INRIA Saclay & LIX, France)
+* [Andrew Pitts](https://www.cl.cam.ac.uk/~amp12/) (University of Cambridge Emeritus, joint ACT/MFPS plenary speaker)
+
 
 
 ## SPECIAL SESSIONS
