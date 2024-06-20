@@ -67,7 +67,10 @@ clear promise in organising intricate models and the inference
 algorithms we use to fit them to data. I will present a type-rich and
 straightforward model, the quasi Borel space, and survey recent and
 ongoing developments in this area.</details>
-* [Catuscia Palamidessi](http://www.lix.polytechnique.fr/~catuscia/) (INRIA Saclay & LIX, France)
+* <details><summary><a href="http://www.lix.polytechnique.fr/~catuscia/">Catuscia Palamidessi</a> (INRIA Saclay & LIX, France) &mdash; <a><i>Information Structures for Privacy and Fairness</i></a></summary>
+The increasingly pervasive use of big data and machine learning is raising various ethical issues, in particular privacy and fairness.
+In this talk, I will discuss some frameworks to understand and mitigate the issues, focusing on iterative methods coming from information theory and statistics.
+In the area of privacy protection, differential privacy (DP) and its variants are the most successful approaches to date. One of the fundamental issues of DP is how to reconcile the loss of information that it implies with the need to preserve the utility of the data. In this regard, a useful tool to recover utility is the Iterative Bayesian Update (IBU), an instance of the famous Expectation-Maximization method from Statistics. I will show that the IBU, combined with the metric version of DP, outperforms the state-of-the art, which is based on algebraic methods combined with the Randomized Response mechanism, widely adopted by the Big Tech industry (Google, Apple, Amazon, ...). Furthermore I will discuss a surprising duality between the IBU and one of the methods used to enhance metric DP, that is the Blahut-Arimoto algorithm from Rate-Distortion Theory. Finally, I will discuss the issue of biased decisions in machine learning, and will show that the IBU can be applied also in this domain to ensure a fairer treatment of disadvantaged groups.</details>
 
 
 ## MFPS special session on the semantics of non-wellfounded and circular proofs
