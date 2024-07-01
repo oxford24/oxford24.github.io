@@ -18,7 +18,9 @@ they have arisen for me, namely the mathematics of syntax involving
 binders and the semantics of univalent type theories. My hope is that
 you will also find them useful, or be able to tell me something about
 them that I don't know. For example, I do not know an abstract
-characterisation of this class of topos. </details>
+characterisation of this class of topos.
+[<a href="https://oxford24.github.io/slides/ACT-MFPS-2024.pdf">slides</a>]
+</details>
 
 
 ## Joint ACT &amp; MFPS special session in memory of Phil Scott
@@ -26,9 +28,10 @@ characterisation of this class of topos. </details>
 Organiser: [Rick Blute](https://www.uottawa.ca/faculty-science/professors/richard-blute) (University of Ottawa). Chair: Andrew Pitts.
 
 * <details><summary><a href="https://www.uottawa.ca/faculty-science/professors/richard-blute">Rick Blute</a> (University of Ottawa) &mdash; <a><i>Proofs, Types and Hexagons</i></a></summary>
-Phil’s book with Jim Lambek “Introduction to Higher-Order Categorical Logic” is a seminal work in category theory. It cemented in the minds of many of us working in the field the idea that the best approach to studying logical systems was to form a category whose objects are formulas and arrows are proofs of entailments. Extensions of this idea are an obsession of the categorical logic community to this day.<br>One of the most interesting extensions involves representing formulas as multivariant functors and thus proofs become dinatural transformations, the hexagons of the title. The problem/challenge that arises is that these transformations need not compose.  This has led to a great deal of interesting category theory, much of which Phil contributed to. I’ll review some of these results, especially those relating to linear logic.</details>
+Phil’s book with Jim Lambek “Introduction to Higher-Order Categorical Logic” is a seminal work in category theory. It cemented in the minds of many of us working in the field the idea that the best approach to studying logical systems was to form a category whose objects are formulas and arrows are proofs of entailments. Extensions of this idea are an obsession of the categorical logic community to this day.<br>One of the most interesting extensions involves representing formulas as multivariant functors and thus proofs become dinatural transformations, the hexagons of the title. The problem/challenge that arises is that these transformations need not compose.  This has led to a great deal of interesting category theory, much of which Phil contributed to. I’ll review some of these results, especially those relating to linear logic. [<a href="https://oxford24.github.io/slides/Phil-MFPS.pdf">slides</a>]
+</details>
 * <details><summary><a href="https://www.cs.ox.ac.uk/people/samson.abramsky/">Samson Abramsky</a> (University of Oxford) &mdash; <a><i>Retracing GoI with Phil</i></a></summary>
-I will describe  my collaboration with Phil Scott and Esfandiar Haghverdi on categorical semantics of Geometry of Interaction. I will say something about the context of this work, and where it led.</details>
+I will describe  my collaboration with Phil Scott and Esfandiar Haghverdi on categorical semantics of Geometry of Interaction. I will say something about the context of this work, and where it led. [<a href="https://oxford24.github.io/slides/retracing_PJS.pdf">slides</a>]</details>
 * <details><summary><a href="http://pages.cpsc.ucalgary.ca/~robin/">Robin Cockett</a> (University of Calgary) &mdash; <a><i>Phil Scott and Occam's Razor</i></a></summary>
 .In Phil's book with Lambek the authors confess they have ​"axes to grind".  One of these
 is "We decry over zealous application of  Occam's razor."
@@ -57,7 +60,7 @@ constructions cannot reason or rely on complexity bounds, and
 arguments that rely on complexity restrictions lie outwith the grasp
 of Type Theory. To address this, I will talk about combining
 techniques from Implicit Computational Complexity with Dependent Type
-Theory to attempt to bring resource consciousness to Type Theory.</details>
+Theory to attempt to bring resource consciousness to Type Theory. </details>
 * <details><summary><a href="http://www.doc.ic.ac.uk/~pg/">Philippa Gardner</a>   (Imperial College, London, UK) &mdash; <a><i>Computational Symbolic Execution for Over-approximating and Under-approximating Reasoning</i></a></summary>
 A relatively recent challenge has been to develop symbolic-execution techniques and tools that are <i>functionally</i> compositional with simple function specifications that can be used in broader calling contexts. The technical break-through came with the introduction of separation logics for reasoning about <i>partial</i> mutable state, leading to compositional symbolic execution tools being developed in academia and industry. Many of these tools have been grounded on a formal foundation, but either the function specifications are validated with respect to the underlying symbolic semantics of the engine, with no meaning outside the tool, or there is a large gulf between the theory and the implementations of the tools. In this talk, I will introduce a formal compositional symbolic execution engine which creates and uses function specifications from an underlying separation logic and provides a sound theoretical foundation for, and indeed was partially inspired by, the Gillian platform.  This is achieved by providing an <i>axiomatic interface</i> which describes the properties of the consume and produce functions for updating the symbolic state when calling function specifications, a technique used by VeriFast, Viper and Gillian but not previously characterised independently of the tool. A surprising property is that our semantics provides a common foundation for both correctness and incorrectness reasoning, with the difference in the underlying engine only amounting to the choice to use satisfiability or validity.  We use this insight to extend the Gillian platform with incorrectness reasoning, developing automatic true bug-finding using incorrectness bi-abduction, which our engine incorporates by creating fixes from missing-resource errors. We have shown that the Gillian implementation of the consumer and producer functions satisfy the properties described by our axiomatic interface, and evaluate our new Gillian platform by using the Gillian instantiation to C.  This instantiation is the first tool to support both correctness and incorrectness reasoning, as well as being grounded on a common formal compositional symbolic execution engine. (Authors: Andreas Lööw, Daniele Nantes Sobrinho, Sacha-Elie Ayoun, Caroline Cronjäger, Petar Maksimović and Philippa Gardner.)   </details>
 * <details><summary><a href="https://denotational.co.uk">Ohad Kammar</a> (University of Edinburgh) &mdash; <a><i>Semantic foundations for type-driven probabilistic modelling</i></a></summary>
@@ -66,7 +69,7 @@ foundations of probabilistic and statistical modelling. Types show
 clear promise in organising intricate models and the inference
 algorithms we use to fit them to data. I will present a type-rich and
 straightforward model, the quasi Borel space, and survey recent and
-ongoing developments in this area.</details>
+ongoing developments in this area. [<a href="https://oxford24.github.io/slides/kammar-slides.pdf">slides</a>]</details>
 * <details><summary><a href="http://www.lix.polytechnique.fr/~catuscia/">Catuscia Palamidessi</a> (INRIA Saclay & LIX, France) &mdash; <a><i>Information Structures for Privacy and Fairness</i></a></summary>
 The increasingly pervasive use of big data and machine learning is raising various ethical issues, in particular privacy and fairness.
 In this talk, I will discuss some frameworks to understand and mitigate the issues, focusing on iterative methods coming from information theory and statistics.
