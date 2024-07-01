@@ -169,30 +169,7 @@ Jump to [ACT contributed talks](#act-contributed-talks) or [MFPS contributed tal
 * Two-dimensional Kripke Semantics II: Stability and Completeness &mdash; <i>Alex Kavvos</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-4.pdf'>pdf</a>]
 * A Semantic Proof of Generalised Cut Elimination for Deep Inference &mdash; <i>Robert Atkey and Wen Kokke</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-22.pdf'>pdf</a>]
 * Positive Focusing is Directly Useful &mdash; <i>Beniamino Accattoli and Jui-Hsuan Wu</i> [<a href='https://oxford24.github.io/assets/mfps-papers/MFPS24-27.pdf'>pdf</a>] [<a href='https://oxford24.github.io/assets/slides/act_benedikt_peterseim.pdf'>slides</a>]
-<!--
-* Continuous Domains for Function Spaces Using Spectral Compactification &mdash; <i><a href="https://www.birmingham.ac.uk/schools/mathematics/people/navigation.aspx?ReferenceId=205075&amp;Name=dr-amin-farjudian">Amin Farjudian</a> and <a href="https://www.cs.bham.ac.uk/~axj/">Achim Jung</a></i>
-* Two-dimensional Kripke Semantics II: Stability and Completeness &mdash; <i>Alex Kavvos</i>
-* Linear Arboreal Categories &mdash; <i>Samson Abramsky, <a href="https://www.cl.cam.ac.uk/~ym374/">Yoàv Montacute</a> and <a href="http://www.cs.ox.ac.uk/people/nihil.shah/">Nihil Shah</a></i>
-* An Ultrametric for Cartesian Differential Categories for Taylor Series Convergence &mdash; <i><a href="https://sites.google.com/view/jspl-personal-webpage/">Jean-Simon Lemay</a></i>
-* CaTT contexts are finite computads &mdash; <i>Thibaut Benjamin, Ioannis Markakis and Chiara Sarti</i>
-* Typed Non-determinism in Concurrent Calculi: The Eager Way &mdash; <i><a href="https://basvdheuvel.github.io/">Bas van den Heuvel</a>, <a href="http://www.mat.unb.br/~dnantes">Daniele Nantes-Sobrinho</a>, Joseph Paulus and <a href="http://www.jperez.nl">Jorge A &mdash; Pérez</a></i>
-* Polynomials in homotopy type theory as a Kleisli category &mdash; <i><a href="http://www.lix.polytechnique.fr/Labo/Elies.HARINGTON/">Elies Harington</a> and <a href="http://www.lix.polytechnique.fr/Labo/Samuel.Mimram/">Samuel Mimram</a></i>
-* GATlab: Modeling and Programming with Generalized Algebraic Theories &mdash; <i>Owen Lynch, Kris Brown, James Fairbanks and <a href="https://www.epatters.org">Evan Patterson</a></i>
-* Amortized Analysis via Coalgebra &mdash; <i><a href="https://www.harrisongrodin.com/">Harrison Grodin</a> and <a href="http://www.cs.cmu.edu/~rwh">Robert Harper</a></i>
-* Inferentialist Resource Semantics &mdash; <i><a href="http://www.alexandergheorghiu.com/">Alexander Gheorghiu</a>, Tao Gu and <a href="http://www.cs.ucl.ac.uk/staff/D.Pym/">David Pym</a></i>
-* Algebraic Reasoning over Relational Structures &mdash; <i><a href="https://www.math.muni.cz/~jurka/">Jan Jurka</a>, <a href="http://www.stefan-milius.eu">Stefan Milius</a> and <a href="https://www8.cs.fau.de/people/henning-urbat/">Henning Urbat</a></i>
-* On Kleisli extensions and decorated trace semantics &mdash; <i>Daniel Luckhardt, Harsh Beohar and Sebastian Küpper</i>
-* The Functional Machine Calculus III: Choice (Early Announcement) &mdash; <i><a href="http://cs.bath.ac.uk/~wbh22">Willem Heijltjes</a></i>
-* Implicit automata in λ-calculi III: affine planar string-to-string functions &mdash; <i><a href="http://cs-web.swan.ac.uk/~cpradic">Cécilia Pradic</a> and Ian Price</i>
-* A Semantic Proof of Generalised Cut Elimination for Deep Inference &mdash; <i><a href="http://bentnib.org/">Robert Atkey</a> and Wen Kokke</i>
-* Cost-sensitive computational adequacy of higher-order recursion in synthetic domain theory &mdash; <i><a href="http://yuesforest.com">Yue Niu</a>, <a href="http://www.jonmsterling.com/">Jonathan Sterling</a> and <a href="http://www.cs.cmu.edu/~rwh">Robert Harper</a></i>
-* Early announcement: Compositional models for imprecise probability &mdash; <i>Jack Liell-Cock and <a href="http://www.cs.ox.ac.uk/people/samuel.staton/main.html">Sam Staton</a></i>
-* A strong nominal semantics for fixed-point constraints &mdash; <i>Ali Khan Caires Ribeiro, <a href="http://www.inf.kcl.ac.uk/staff/maribel">Maribel Fernandez</a> and <a href="http://www.mat.unb.br/~dnantes">Daniele Nantes-Sobrinho</a></i>
-* Positive Focusing is Directly Useful &mdash; <i><a href="https://sites.google.com/site/beniaminoaccattoli/">Beniamino Accattoli</a> and <a href="http://www.lix.polytechnique.fr/Labo/Jui-Hsuan.WU/">Jui-Hsuan Wu</a></i>
-* Parametricity via Cohesion &mdash; <i><a href="https://cbaberle.com">C.B - Aberlé</a></i>
-* Early Announcement: Relational parametricity in the presence of GADTs &mdash; <i><a href="https://www.normalesup.org/~cagne/index.html">Pierre Cagne</a> and <a href="http://cs.appstate.edu/johannp">Patricia Johann</a></i>
-* On a fibrational construction for optics, lenses, and Dialectica categories &mdash; 
-<i><a href="https://matteocapucci.wordpress.com">Matteo Capucci</a>, <a href="https://www.brunogavranovic.com/">Bruno Gavranovic</a>, <a href="https://abdullahnaeemmalik.github.io/">Abdullah Malik</a>, <a href="https://www.ornl.gov/staff-profile/francisco-r-rios">Francisco Rios</a> and <a href="https://sites.google.com/view/jonathanweinberger">Jonathan Weinberger</a></i>-->
+
 
 ## Additional sessions
 
