@@ -7,7 +7,7 @@ layout: actmfps
 ## Local organizers
 
 * [Sam Staton](https://www.cs.ox.ac.uk/people/samuel.staton/main.html)
-* Pedro Amorim, Benedict Bunting, Younesse Kaddar,  Anthony Kattuman, Jacek Karwowski, Jack Liell-Cock, Paolo Perrone, Kashish Raimalani, Jessica Richards, Benjamin Rodatz, Mario Roman, Philip Saville, Razin Shaikh, Zev Shirazi, Ned Summers, Ruben Van Belle, Theo Wang, Jinjie Yang.
+* Pedro Amorim, Benedict Bunting, Younesse Kaddar,  Anthony Kattuman, Jacek Karwowski, Jack Liell-Cock, Paolo Perrone, Kashish Raimalani, Jessica Richards, Benjamin Rodatz, Mario Roman, Philip Saville, Razin Shaikh, Zev Shirazi, Ned Summers, Ruben Van Belle, Theo Wang, Jingjie Yang.
 * [Lara Hartley](https://www.cs.ox.ac.uk/people/lara.hartley/). 
 
 
