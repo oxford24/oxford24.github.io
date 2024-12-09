@@ -7,8 +7,9 @@ layout: actmfps
 ## Local organizers
 
 * [Sam Staton](https://www.cs.ox.ac.uk/people/samuel.staton/main.html)
-* [Lara Hartley](https://www.cs.ox.ac.uk/people/lara.hartley/)
-* TBC
+* Pedro Amorim, Benedict Bunting, Younesse Kaddar,  Anthony Kattuman, Jacek Karwowski, Kadish Raimalani, Jessica Richards, Benjamin Rodatz, Mario Roman, Philip Saville, Razin Shaikh, Zev Shirazi, Ned Summers, Ruben Van Belle, Theo Wang, Jinjie Yang.
+* [Lara Hartley](https://www.cs.ox.ac.uk/people/lara.hartley/). 
+
 
 ## ACT Programme Chairs
 * [David Jaz Myers](http://davidjaz.com/)
